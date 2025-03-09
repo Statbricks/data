@@ -1,0 +1,17 @@
+bu,regionseq,vp,region
+Sales,1,Aisha Patel,Asia Pacific
+Sales 2,2,Maria Rodriguez,Europe
+Sales 3,3,Sarah Johnson,Asia Pacific
+Marketing,4,Omar Hassan,North America
+Marketing 2,5,Sarah Johnson,Asia Pacific
+Finance,6,Michael Scott,Asia Pacific
+Finance 2,7,Michael Scott,Latin America
+Finance 3,8,Aisha Patel,North America
+IT,9,Michael Scott,Europe
+IT 2,10,Carlos Gomez,Asia Pacific
+HR,11,David Kim,North America
+HR 2,12,Omar Hassan,Middle East & Africa
+Operations,13,Michael Scott,North America
+R&D,14,Sarah Johnson,Asia Pacific
+R&D 2,15,Wei Chen,Middle East & Africa
+Customer Support,16,Sarah Johnson,Europe

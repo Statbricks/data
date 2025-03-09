@@ -1,0 +1,5 @@
+paytypeid,paytype
+1,Hourly
+2,Salary
+3,Commission
+4,Piece Rate
