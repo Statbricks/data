@@ -199,14 +199,14 @@ separation_reason_data <- generate_separation_reason()
 employees_data <- generate_employees(business_units, 10000)
 
 # Save all tables as CSV files
-write_csv(age_groups, "data/hr/age_group.csv")
-write_csv(business_units, "data/hr/BU.csv")
-write_csv(ethnicity_data, "data/hr/ethnicity.csv")
-write_csv(fp_data, "data/hr/fp.csv")
-write_csv(gender_data, "data/hr/gender.csv")
-write_csv(paytype_data, "data/hr/paytype.csv")
-write_csv(separation_reason_data, "data/hr/separationreason.csv")
-write_csv(employees_data, "data/hr/employees.csv")
+write_csv(age_groups, "data/hr/age_group.csv", na = "")
+write_csv(business_units, "data/hr/BU.csv", na = "")
+write_csv(ethnicity_data, "data/hr/ethnicity.csv", na = "")
+write_csv(fp_data, "data/hr/fp.csv", na = "")
+write_csv(gender_data, "data/hr/gender.csv", na = "")
+write_csv(paytype_data, "data/hr/paytype.csv", na = "")
+write_csv(separation_reason_data, "data/hr/separationreason.csv", na = "")
+write_csv(employees_data, "data/hr/employees.csv", na = "")
 
 # Print table summaries
 cat("Age Groups Table:\n")
