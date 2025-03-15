@@ -3,3 +3,4 @@ paytypeid,paytype
 2,Salary
 3,Commission
 4,Piece Rate
+5,Hybrid

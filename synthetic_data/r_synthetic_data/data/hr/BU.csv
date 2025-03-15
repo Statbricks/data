@@ -1,17 +1,29 @@
 bu,regionseq,vp,region
-Sales,1,Aisha Patel,Asia Pacific
-Sales 2,2,Maria Rodriguez,Europe
-Sales 3,3,Sarah Johnson,Asia Pacific
-Marketing,4,Omar Hassan,North America
-Marketing 2,5,Sarah Johnson,Asia Pacific
-Finance,6,Michael Scott,Asia Pacific
-Finance 2,7,Michael Scott,Latin America
-Finance 3,8,Aisha Patel,North America
-IT,9,Michael Scott,Europe
-IT 2,10,Carlos Gomez,Asia Pacific
-HR,11,David Kim,North America
-HR 2,12,Omar Hassan,Middle East & Africa
-Operations,13,Michael Scott,North America
-R&D,14,Sarah Johnson,Asia Pacific
-R&D 2,15,Wei Chen,Middle East & Africa
-Customer Support,16,Sarah Johnson,Europe
+Sales,1,Aisha Patel,North America
+Sales 2,2,Sarah Johnson,Latin America
+Sales 3,3,Michael Scott,Europe
+Sales 4,4,Omar Hassan,North America
+Marketing,5,Omar Hassan,Latin America
+Marketing 2,6,David Kim,Asia Pacific
+Marketing 3,7,Sarah Johnson,Europe
+Marketing 4,8,Michael Scott,Middle East & Africa
+Finance,9,Rachel Green,Asia Pacific
+IT,10,Maria Rodriguez,Middle East & Africa
+IT 2,11,Omar Hassan,Middle East & Africa
+IT 3,12,Carlos Gomez,Asia Pacific
+IT 4,13,Omar Hassan,Middle East & Africa
+HR,14,Omar Hassan,Europe
+Operations,15,Michael Scott,North America
+Operations 2,16,Carlos Gomez,North America
+Operations 3,17,Rachel Green,Asia Pacific
+R&D,18,Aisha Patel,Latin America
+Customer Support,19,John Smith,Latin America
+Customer Support 2,20,Carlos Gomez,Asia Pacific
+Customer Support 3,21,Michael Scott,North America
+Legal,22,Maria Rodriguez,North America
+Legal 2,23,Rachel Green,North America
+Legal 3,24,Michael Scott,Europe
+Executive,25,Omar Hassan,North America
+Executive 2,26,David Kim,North America
+Executive 3,27,David Kim,Europe
+Executive 4,28,John Smith,Europe

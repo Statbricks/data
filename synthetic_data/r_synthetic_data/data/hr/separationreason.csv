@@ -4,8 +4,10 @@ Separationtypeid,separationreason
 3,Voluntary - Retirement
 4,Voluntary - Personal
 5,Voluntary - Health
-6,Involuntary - Performance
-7,Involuntary - Conduct
-8,Involuntary - Restructuring
-9,End of Contract
-10,Other
+6,Voluntary - Work-Life Balance
+7,Involuntary - Performance
+8,Involuntary - Conduct
+9,Involuntary - Restructuring
+10,Involuntary - Position Elimination
+11,End of Contract
+12,Other
