@@ -115,7 +115,7 @@ generate_separation_reason <- function() {
 }
 
 # Generate employees table
-generate_employees <- function(bu_data, num_employees = 1000) {
+generate_employees <- function(bu_data, num_employees = 1700) {
   start_date <- as.Date("2018-01-01")
   end_date <- as.Date("2023-12-31")
   
