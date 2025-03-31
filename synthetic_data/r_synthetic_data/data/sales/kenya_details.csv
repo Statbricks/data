@@ -1,0 +1,1501 @@
+Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+K-12607,4775,-1245,8,Groceries,Cereals,M-Pesa
+K-12607,47690,-4194,6,Furniture,Living Room,Credit Card
+K-12607,15166,1635,8,Clothing,Accessories,M-Pesa
+K-12607,5843,887,10,Groceries,Household,M-Pesa
+K-45360,5653,-1218,1,Electronics,Accessories,Bank Transfer
+K-45360,2263,-160,5,Groceries,Fresh Produce,Bank Transfer
+K-94129,15813,66,2,Furniture,Bedroom,M-Pesa
+K-94129,4530,-1358,1,Electronics,Accessories,Cash on Delivery
+K-86351,5091,-684,3,Clothing,Sportswear,Credit Card
+K-86351,2988,-24,3,Beauty,Fragrances,Credit Card
+K-86351,47639,3003,6,Furniture,Bedroom,Cash on Delivery
+K-86351,1732,177,1,Clothing,Sportswear,Airtel Money
+K-11516,4547,913,8,Groceries,Cereals,Airtel Money
+K-31927,27311,827,3,Furniture,Kitchen,M-Pesa
+K-31927,4476,-479,8,Groceries,Beverages,Credit Card
+K-31927,22861,2418,3,Furniture,Living Room,M-Pesa
+K-31927,15976,4550,3,Electronics,TVs,Cash on Delivery
+K-45810,2297,-165,4,Groceries,Household,Airtel Money
+K-45810,14381,3761,7,Clothing,Traditional Wear,Cash on Delivery
+K-22181,3834,1076,7,Groceries,Snacks,Airtel Money
+K-22181,42911,14410,8,Electronics,Accessories,Airtel Money
+K-22181,2229,-96,4,Groceries,Beverages,Cash on Delivery
+K-22181,4594,-777,9,Groceries,Snacks,Cash on Delivery
+K-22181,52981,-3908,8,Furniture,Living Room,Credit Card
+K-75983,13957,-2310,3,Electronics,Mobile Phones,Bank Transfer
+K-75983,16371,4514,10,Clothing,Formal Wear,Airtel Money
+K-37437,4464,1437,2,Clothing,Sportswear,Credit Card
+K-37437,6056,1929,6,Beauty,Makeup,Airtel Money
+K-65524,2662,-4,5,Groceries,Fresh Produce,M-Pesa
+K-65524,52865,-3365,7,Furniture,Outdoor,Credit Card
+K-65524,35797,15,6,Electronics,Mobile Phones,Airtel Money
+K-65524,47344,697,10,Electronics,Mobile Phones,M-Pesa
+K-65524,10389,-1254,10,Beauty,Makeup,Airtel Money
+K-52424,4919,-653,1,Electronics,Laptops,Airtel Money
+K-52424,5142,-74,10,Groceries,Fresh Produce,Airtel Money
+K-21286,23562,2030,10,Clothing,Sportswear,Cash on Delivery
+K-21286,46523,-832,5,Furniture,Outdoor,Airtel Money
+K-21286,2787,1036,6,Groceries,Beverages,Airtel Money
+K-21286,4203,-351,10,Groceries,Beverages,Bank Transfer
+K-31127,18147,4840,4,Electronics,Appliances,Cash on Delivery
+K-75022,13598,501,6,Clothing,Sportswear,Bank Transfer
+K-75022,4127,902,7,Groceries,Fresh Produce,Airtel Money
+K-75022,10141,2002,6,Clothing,Casual Wear,M-Pesa
+K-13235,3106,546,3,Beauty,Skincare,M-Pesa
+K-13235,82175,20473,9,Furniture,Kitchen,M-Pesa
+K-13235,49839,-431,6,Furniture,Office,Bank Transfer
+K-31058,2160,734,1,Clothing,Traditional Wear,M-Pesa
+K-31058,2937,-783,7,Groceries,Fresh Produce,M-Pesa
+K-62128,12919,-2401,6,Clothing,Formal Wear,M-Pesa
+K-62128,6656,1605,3,Clothing,Formal Wear,Bank Transfer
+K-62128,32627,3133,8,Electronics,Appliances,Airtel Money
+K-93739,9212,832,8,Beauty,Makeup,Credit Card
+K-93739,61170,20689,9,Furniture,Bedroom,Bank Transfer
+K-93739,5525,-490,5,Beauty,Skincare,Cash on Delivery
+K-93739,2380,-301,4,Groceries,Snacks,Bank Transfer
+K-93739,61205,20417,9,Furniture,Kitchen,Credit Card
+K-85984,9982,2637,2,Electronics,Accessories,Airtel Money
+K-46532,4682,1221,2,Clothing,Sportswear,Credit Card
+K-46532,58983,-15337,9,Furniture,Kitchen,Airtel Money
+K-46532,2860,917,6,Groceries,Beverages,M-Pesa
+K-46532,19355,3062,10,Clothing,Sportswear,Airtel Money
+K-12405,9494,2286,4,Clothing,Casual Wear,M-Pesa
+K-12405,75834,-8712,10,Furniture,Outdoor,Cash on Delivery
+K-12405,8573,-1234,4,Clothing,Formal Wear,Credit Card
+K-43671,47457,-7631,5,Furniture,Living Room,Airtel Money
+K-43671,19162,-392,9,Clothing,Sportswear,M-Pesa
+K-43671,9036,2150,9,Beauty,Personal Care,Bank Transfer
+K-47711,57171,-16029,6,Furniture,Office,Cash on Delivery
+K-47711,3566,-150,6,Groceries,Fresh Produce,M-Pesa
+K-85085,9237,-54,4,Clothing,Formal Wear,Airtel Money
+K-85085,6322,-1210,6,Beauty,Haircare,M-Pesa
+K-85085,6426,-1758,6,Beauty,Haircare,Cash on Delivery
+K-85085,13615,-194,2,Furniture,Outdoor,Bank Transfer
+K-54295,2659,216,3,Beauty,Skincare,Bank Transfer
+K-54295,3135,-510,3,Beauty,Haircare,Cash on Delivery
+K-54295,2253,209,1,Clothing,Formal Wear,Bank Transfer
+K-54295,932,-264,1,Beauty,Haircare,Bank Transfer
+K-18392,10004,-1123,9,Beauty,Haircare,Bank Transfer
+K-97264,11098,3194,2,Electronics,Laptops,Credit Card
+K-97264,9216,401,2,Electronics,Accessories,M-Pesa
+K-51639,8260,189,1,Furniture,Bedroom,M-Pesa
+K-51639,19306,-5078,10,Clothing,Casual Wear,Bank Transfer
+K-51639,28532,-6690,6,Electronics,Laptops,Bank Transfer
+K-51639,4783,734,1,Electronics,Laptops,Airtel Money
+K-92496,5940,-640,10,Groceries,Household,Bank Transfer
+K-11014,3690,1402,9,Groceries,Cereals,Airtel Money
+K-63196,1274,331,3,Groceries,Household,Bank Transfer
+K-63196,44019,9176,8,Electronics,Accessories,Credit Card
+K-23331,16846,-275,10,Clothing,Traditional Wear,M-Pesa
+K-23331,8273,3068,5,Clothing,Accessories,Credit Card
+K-23331,8914,3459,5,Clothing,Accessories,M-Pesa
+K-94091,9486,87,9,Beauty,Fragrances,Bank Transfer
+K-94091,8549,20,9,Beauty,Personal Care,Airtel Money
+K-94091,32976,-833,5,Furniture,Office,Airtel Money
+K-94091,13577,3450,8,Clothing,Casual Wear,Cash on Delivery
+K-94091,4529,1413,8,Groceries,Household,Cash on Delivery
+K-89916,3881,1295,7,Groceries,Household,Airtel Money
+K-89916,2795,518,5,Groceries,Beverages,Bank Transfer
+K-89916,14374,-4306,2,Furniture,Office,Bank Transfer
+K-16796,35633,8976,6,Electronics,Mobile Phones,Airtel Money
+K-16796,7721,2168,8,Beauty,Personal Care,M-Pesa
+K-99225,1271,16,3,Groceries,Fresh Produce,Cash on Delivery
+K-99225,42483,-8372,6,Furniture,Outdoor,Airtel Money
+K-99225,13585,499,6,Clothing,Formal Wear,Airtel Money
+K-99225,49376,-8105,9,Electronics,Accessories,Cash on Delivery
+K-99225,7727,920,1,Furniture,Kitchen,Airtel Money
+K-17947,1137,124,1,Beauty,Fragrances,Cash on Delivery
+K-17947,5171,321,10,Groceries,Snacks,Cash on Delivery
+K-17947,51189,15302,10,Electronics,Accessories,Credit Card
+K-17947,1872,468,2,Beauty,Haircare,Cash on Delivery
+K-17947,16783,-4560,3,Electronics,Laptops,M-Pesa
+K-92758,8515,-430,8,Beauty,Fragrances,Bank Transfer
+K-92758,3658,1155,4,Beauty,Fragrances,Credit Card
+K-42014,61436,-10744,9,Furniture,Bedroom,Bank Transfer
+K-42014,3774,-902,8,Groceries,Beverages,M-Pesa
+K-42014,3494,1228,8,Groceries,Snacks,Airtel Money
+K-42014,7459,-1578,7,Beauty,Fragrances,Bank Transfer
+K-59072,39117,-5429,7,Electronics,TVs,M-Pesa
+K-59072,546,167,1,Groceries,Fresh Produce,Credit Card
+K-59072,8008,1036,10,Beauty,Personal Care,Cash on Delivery
+K-59072,16507,-1629,4,Electronics,Laptops,Airtel Money
+K-13238,11484,-3193,6,Clothing,Formal Wear,Airtel Money
+K-33806,8049,2005,7,Beauty,Fragrances,Airtel Money
+K-33806,22354,-2640,3,Furniture,Bedroom,Cash on Delivery
+K-60809,5444,1560,6,Beauty,Personal Care,Airtel Money
+K-29333,7762,3063,7,Beauty,Fragrances,Airtel Money
+K-29333,3851,1188,8,Groceries,Fresh Produce,Credit Card
+K-29333,3200,242,3,Beauty,Fragrances,Credit Card
+K-29333,1993,-80,1,Clothing,Casual Wear,Airtel Money
+K-29333,33405,8519,5,Furniture,Bedroom,Bank Transfer
+K-48659,4209,622,1,Electronics,Mobile Phones,Airtel Money
+K-48659,4690,912,4,Beauty,Personal Care,Airtel Money
+K-48659,22159,1137,4,Electronics,Laptops,Cash on Delivery
+K-58706,39962,-9811,7,Electronics,Accessories,Bank Transfer
+K-32253,69691,17503,9,Furniture,Kitchen,Bank Transfer
+K-32253,8189,2157,7,Beauty,Skincare,Cash on Delivery
+K-32253,15163,130,3,Electronics,TVs,M-Pesa
+K-32253,6929,-1334,1,Furniture,Outdoor,M-Pesa
+K-32253,4674,1783,10,Groceries,Snacks,M-Pesa
+K-10269,19018,4439,8,Clothing,Accessories,Credit Card
+K-53680,8593,3128,1,Furniture,Living Room,Credit Card
+K-53680,3463,-763,3,Beauty,Personal Care,Credit Card
+K-53680,2123,668,4,Groceries,Cereals,Bank Transfer
+K-94498,1726,71,3,Groceries,Snacks,Airtel Money
+K-73073,11384,3686,5,Clothing,Accessories,Airtel Money
+K-73073,2536,485,3,Beauty,Personal Care,Bank Transfer
+K-50155,22552,8849,5,Electronics,TVs,Bank Transfer
+K-50155,3957,-156,4,Beauty,Skincare,Airtel Money
+K-91017,9289,1320,1,Furniture,Office,Credit Card
+K-91017,4119,40,4,Beauty,Makeup,M-Pesa
+K-31380,15095,-1455,3,Electronics,Accessories,Airtel Money
+K-31380,25027,5047,6,Electronics,Appliances,Bank Transfer
+K-31380,46270,-11069,7,Furniture,Office,Bank Transfer
+K-31380,54212,12741,7,Furniture,Bedroom,Credit Card
+K-43058,14347,3219,8,Clothing,Casual Wear,M-Pesa
+K-72182,4451,1579,2,Clothing,Sportswear,Credit Card
+K-72182,21716,63,10,Clothing,Casual Wear,Credit Card
+K-72182,2099,836,4,Groceries,Cereals,Bank Transfer
+K-72182,34166,2899,5,Furniture,Kitchen,Credit Card
+K-14924,519,10,1,Groceries,Fresh Produce,M-Pesa
+K-37816,40617,6107,10,Electronics,Laptops,Credit Card
+K-52430,5267,1768,9,Groceries,Household,Cash on Delivery
+K-52430,958,-167,2,Groceries,Fresh Produce,Credit Card
+K-52430,12461,2854,7,Clothing,Accessories,M-Pesa
+K-20308,25865,4642,3,Furniture,Office,Cash on Delivery
+K-20308,17831,1240,2,Furniture,Kitchen,Credit Card
+K-20308,2832,-7,5,Groceries,Snacks,Credit Card
+K-20308,91429,3223,10,Furniture,Outdoor,Cash on Delivery
+K-84753,11554,3366,7,Clothing,Casual Wear,M-Pesa
+K-84753,6706,-1263,4,Clothing,Sportswear,Airtel Money
+K-84753,43900,5329,5,Furniture,Kitchen,Airtel Money
+K-10854,5665,1628,7,Beauty,Makeup,Bank Transfer
+K-10854,13767,-489,3,Electronics,Mobile Phones,Cash on Delivery
+K-10854,5663,1671,5,Beauty,Personal Care,M-Pesa
+K-17031,17449,1174,4,Electronics,Laptops,M-Pesa
+K-17031,69149,-5843,9,Furniture,Office,M-Pesa
+K-17031,58852,18840,8,Furniture,Bedroom,M-Pesa
+K-17031,19147,-4205,8,Clothing,Traditional Wear,M-Pesa
+K-54260,48985,-3923,10,Electronics,TVs,Cash on Delivery
+K-58846,25200,1473,3,Furniture,Outdoor,Airtel Money
+K-58846,16033,3338,2,Furniture,Kitchen,Cash on Delivery
+K-37576,9956,3063,5,Clothing,Formal Wear,Cash on Delivery
+K-92537,34128,-4005,7,Electronics,TVs,Credit Card
+K-92537,16334,6066,4,Electronics,Accessories,M-Pesa
+K-92537,3522,1388,8,Groceries,Cereals,Credit Card
+K-92537,15906,-1555,9,Clothing,Casual Wear,M-Pesa
+K-47070,6244,1964,3,Clothing,Sportswear,Cash on Delivery
+K-63180,2084,34,5,Groceries,Beverages,Credit Card
+K-63180,6252,-149,3,Clothing,Sportswear,Credit Card
+K-63180,38372,14185,4,Furniture,Office,Airtel Money
+K-63180,8261,2453,4,Clothing,Sportswear,Credit Card
+K-11315,2520,-150,6,Groceries,Cereals,Cash on Delivery
+K-11315,53368,-8747,7,Furniture,Living Room,Airtel Money
+K-11315,3279,-625,6,Groceries,Household,Airtel Money
+K-11315,30743,6735,6,Electronics,Mobile Phones,Cash on Delivery
+K-13334,11640,1693,10,Beauty,Makeup,M-Pesa
+K-13334,828,-236,2,Groceries,Household,M-Pesa
+K-13334,75937,29912,10,Furniture,Living Room,Airtel Money
+K-13334,7179,-1415,4,Clothing,Casual Wear,M-Pesa
+K-53799,4092,-580,4,Beauty,Haircare,Credit Card
+K-53799,41189,7294,10,Electronics,Accessories,M-Pesa
+K-53799,29955,-2317,7,Electronics,Mobile Phones,Credit Card
+K-53799,3924,1498,9,Groceries,Snacks,Credit Card
+K-53799,1499,32,3,Groceries,Beverages,Airtel Money
+K-63770,6632,1969,7,Beauty,Personal Care,Airtel Money
+K-63770,7549,502,4,Clothing,Sportswear,M-Pesa
+K-63770,9525,1232,4,Clothing,Accessories,M-Pesa
+K-75791,7122,-398,8,Beauty,Haircare,Airtel Money
+K-75791,7017,1857,7,Beauty,Haircare,Credit Card
+K-75791,9809,1752,9,Beauty,Makeup,Credit Card
+K-66790,9665,-1679,2,Electronics,Accessories,M-Pesa
+K-66790,8810,-1065,10,Beauty,Makeup,Credit Card
+K-66790,12704,2613,7,Clothing,Accessories,Cash on Delivery
+K-66790,1237,15,3,Groceries,Fresh Produce,Airtel Money
+K-30567,3977,-1191,9,Groceries,Fresh Produce,Airtel Money
+K-30567,71545,16121,8,Furniture,Living Room,Cash on Delivery
+K-30567,18617,3490,10,Clothing,Sportswear,M-Pesa
+K-30567,51601,4475,10,Electronics,Appliances,M-Pesa
+K-35161,11516,995,5,Clothing,Formal Wear,Airtel Money
+K-62978,14777,3375,9,Clothing,Sportswear,Cash on Delivery
+K-62978,57446,2391,10,Electronics,Laptops,Airtel Money
+K-62978,10756,-2608,6,Clothing,Traditional Wear,M-Pesa
+K-99374,5704,-378,3,Clothing,Sportswear,Cash on Delivery
+K-32807,39238,-6190,7,Electronics,Laptops,Airtel Money
+K-84530,9129,-227,9,Beauty,Personal Care,Bank Transfer
+K-84530,12956,90,3,Electronics,Mobile Phones,Airtel Money
+K-84530,5184,984,1,Electronics,Accessories,M-Pesa
+K-84530,3337,-866,3,Beauty,Fragrances,Bank Transfer
+K-66997,74939,-20709,10,Furniture,Living Room,Cash on Delivery
+K-66997,2846,293,6,Groceries,Fresh Produce,Bank Transfer
+K-66997,489,-13,1,Groceries,Snacks,Airtel Money
+K-66997,3325,915,8,Groceries,Fresh Produce,Airtel Money
+K-66997,2006,494,2,Beauty,Skincare,Credit Card
+K-73955,16087,216,3,Electronics,TVs,Cash on Delivery
+K-73955,9168,-2063,4,Clothing,Traditional Wear,M-Pesa
+K-73955,51364,-13595,8,Furniture,Kitchen,Cash on Delivery
+K-16089,6110,-949,6,Beauty,Haircare,Credit Card
+K-36569,31624,-586,7,Electronics,TVs,Bank Transfer
+K-36569,80351,9371,9,Furniture,Office,Cash on Delivery
+K-36569,39452,-9163,8,Electronics,Laptops,Airtel Money
+K-36569,8278,-1339,7,Beauty,Personal Care,M-Pesa
+K-36569,49902,-1160,6,Furniture,Living Room,Credit Card
+K-46718,6444,-476,7,Beauty,Haircare,Bank Transfer
+K-36866,10406,-2534,5,Clothing,Formal Wear,Airtel Money
+K-36866,8853,179,8,Beauty,Makeup,Airtel Money
+K-36866,4073,-1163,2,Clothing,Formal Wear,Cash on Delivery
+K-36866,18237,1733,4,Electronics,Mobile Phones,Cash on Delivery
+K-36866,1167,306,1,Beauty,Fragrances,Credit Card
+K-43302,1622,-347,2,Beauty,Personal Care,M-Pesa
+K-50846,53222,6478,9,Electronics,Mobile Phones,Cash on Delivery
+K-50846,2083,100,5,Groceries,Fresh Produce,Airtel Money
+K-59940,41531,-8908,7,Electronics,Mobile Phones,Cash on Delivery
+K-59940,8000,411,4,Clothing,Traditional Wear,Cash on Delivery
+K-59940,838,-205,1,Beauty,Fragrances,Credit Card
+K-59940,8960,-102,8,Beauty,Fragrances,Airtel Money
+K-59940,42432,-9472,6,Furniture,Office,M-Pesa
+K-61247,81794,28605,10,Furniture,Office,Credit Card
+K-63729,3367,-313,4,Beauty,Makeup,Cash on Delivery
+K-63729,27128,308,5,Electronics,Laptops,M-Pesa
+K-63729,52367,16739,7,Furniture,Outdoor,Bank Transfer
+K-63729,5955,130,1,Electronics,Appliances,Bank Transfer
+K-63729,5240,804,10,Groceries,Snacks,Credit Card
+K-94072,2465,668,6,Groceries,Fresh Produce,M-Pesa
+K-72135,41187,-7478,5,Furniture,Living Room,Bank Transfer
+K-72135,28365,4974,3,Furniture,Office,Airtel Money
+K-72135,3372,961,7,Groceries,Household,Cash on Delivery
+K-72135,2788,1062,5,Groceries,Beverages,Credit Card
+K-33043,1951,-473,2,Beauty,Personal Care,Bank Transfer
+K-33043,4319,36,2,Clothing,Accessories,Bank Transfer
+K-33043,3741,1374,2,Clothing,Traditional Wear,Credit Card
+K-33043,4392,-1032,9,Groceries,Cereals,M-Pesa
+K-40007,878,-17,1,Beauty,Skincare,M-Pesa
+K-40007,3212,-803,6,Groceries,Household,Cash on Delivery
+K-40007,17853,6191,4,Electronics,Mobile Phones,Bank Transfer
+K-40007,93973,13801,10,Furniture,Bedroom,Credit Card
+K-69125,8814,-1690,5,Clothing,Casual Wear,Bank Transfer
+K-69125,36383,13443,7,Electronics,TVs,Credit Card
+K-69125,36896,1531,5,Furniture,Bedroom,Airtel Money
+K-69125,2350,-477,4,Groceries,Household,M-Pesa
+K-69125,8326,-721,10,Beauty,Haircare,Bank Transfer
+K-19034,26781,-411,5,Electronics,Laptops,M-Pesa
+K-19034,23130,3316,10,Clothing,Sportswear,Credit Card
+K-88073,2911,-24,3,Beauty,Personal Care,Airtel Money
+K-88073,3569,-656,6,Groceries,Beverages,Cash on Delivery
+K-81252,5990,1927,6,Beauty,Haircare,M-Pesa
+K-81252,3352,-747,8,Groceries,Beverages,Cash on Delivery
+K-81252,1143,-223,1,Beauty,Skincare,M-Pesa
+K-81252,40535,-7305,7,Electronics,Laptops,Cash on Delivery
+K-81252,420,161,1,Groceries,Beverages,Bank Transfer
+K-52081,509,190,1,Groceries,Beverages,Cash on Delivery
+K-52081,5154,-1028,1,Electronics,TVs,Credit Card
+K-52081,10043,1169,2,Electronics,TVs,M-Pesa
+K-93468,3181,-360,6,Groceries,Snacks,M-Pesa
+K-93468,40373,11858,8,Electronics,TVs,M-Pesa
+K-93468,45175,-2811,5,Furniture,Bedroom,M-Pesa
+K-93468,59947,-8628,7,Furniture,Bedroom,Credit Card
+K-93468,4977,1409,6,Beauty,Skincare,Credit Card
+K-86033,3049,58,3,Beauty,Makeup,Cash on Delivery
+K-86033,15078,-327,2,Furniture,Kitchen,Bank Transfer
+K-86033,7023,171,4,Clothing,Formal Wear,Airtel Money
+K-86033,32841,-9055,6,Electronics,TVs,Credit Card
+K-86033,24527,-638,3,Furniture,Office,Credit Card
+K-65557,1667,528,1,Clothing,Formal Wear,Airtel Money
+K-65557,5056,58,9,Groceries,Cereals,Cash on Delivery
+K-65557,7044,390,6,Beauty,Fragrances,M-Pesa
+K-65557,17329,2278,9,Clothing,Traditional Wear,Cash on Delivery
+K-65557,8690,1819,5,Clothing,Sportswear,Bank Transfer
+K-60704,1266,-190,3,Groceries,Cereals,Airtel Money
+K-79837,4833,1666,5,Beauty,Skincare,M-Pesa
+K-79837,2459,604,3,Beauty,Fragrances,Bank Transfer
+K-40284,9225,-240,1,Furniture,Kitchen,M-Pesa
+K-40284,61225,22934,7,Furniture,Living Room,Credit Card
+K-87669,1145,-262,2,Groceries,Beverages,M-Pesa
+K-11257,8908,295,9,Beauty,Personal Care,Airtel Money
+K-11257,6561,-1836,8,Beauty,Fragrances,Airtel Money
+K-11257,45530,8601,10,Electronics,Accessories,M-Pesa
+K-46678,22864,-723,4,Electronics,Laptops,Cash on Delivery
+K-46678,3625,393,7,Groceries,Household,Cash on Delivery
+K-46678,39540,-8442,9,Electronics,Accessories,Airtel Money
+K-46678,7178,285,4,Clothing,Formal Wear,Cash on Delivery
+K-40699,3174,468,7,Groceries,Snacks,M-Pesa
+K-40699,5921,1013,6,Beauty,Fragrances,Bank Transfer
+K-48375,4774,-973,9,Groceries,Fresh Produce,Cash on Delivery
+K-48375,20900,710,4,Electronics,Appliances,M-Pesa
+K-63165,17230,-4175,10,Clothing,Casual Wear,M-Pesa
+K-63165,404,-67,1,Groceries,Beverages,Cash on Delivery
+K-63165,12123,3752,7,Clothing,Accessories,M-Pesa
+K-27616,41520,1046,6,Furniture,Bedroom,Credit Card
+K-27616,7745,199,9,Beauty,Makeup,Credit Card
+K-27616,2930,943,7,Groceries,Household,Cash on Delivery
+K-27616,9363,3334,1,Furniture,Living Room,Airtel Money
+K-27616,6746,1356,4,Clothing,Sportswear,Airtel Money
+K-25153,22641,358,5,Electronics,Mobile Phones,Bank Transfer
+K-25153,52915,8340,9,Electronics,TVs,Cash on Delivery
+K-25153,838,-128,1,Beauty,Haircare,Cash on Delivery
+K-50745,11527,211,2,Electronics,Accessories,M-Pesa
+K-50745,16214,1100,10,Clothing,Traditional Wear,Credit Card
+K-50745,22221,4375,4,Electronics,Mobile Phones,Cash on Delivery
+K-50745,56718,11128,8,Furniture,Kitchen,Airtel Money
+K-50745,1413,-403,3,Groceries,Fresh Produce,Airtel Money
+K-85316,896,89,2,Groceries,Cereals,Bank Transfer
+K-85316,3458,107,6,Groceries,Fresh Produce,Credit Card
+K-85316,6924,879,1,Furniture,Outdoor,Airtel Money
+K-37976,25332,-6410,6,Electronics,Laptops,M-Pesa
+K-37976,4695,-870,2,Clothing,Traditional Wear,Credit Card
+K-37976,7283,-438,9,Beauty,Personal Care,Bank Transfer
+K-37976,11846,-2148,5,Clothing,Accessories,Airtel Money
+K-64610,2802,-682,7,Groceries,Cereals,Cash on Delivery
+K-64610,3326,79,6,Groceries,Beverages,Credit Card
+K-64610,16575,5441,8,Clothing,Sportswear,Airtel Money
+K-64610,9043,-1461,1,Furniture,Office,Cash on Delivery
+K-64610,4023,-516,8,Groceries,Beverages,Airtel Money
+K-39942,65317,11511,8,Furniture,Bedroom,Bank Transfer
+K-39942,5315,-432,6,Beauty,Makeup,M-Pesa
+K-39942,18880,429,2,Furniture,Bedroom,Cash on Delivery
+K-91425,25801,8363,3,Furniture,Kitchen,Cash on Delivery
+K-91425,49905,261,9,Electronics,Accessories,Cash on Delivery
+K-56455,20135,5122,10,Clothing,Formal Wear,M-Pesa
+K-46393,9403,170,1,Furniture,Bedroom,Bank Transfer
+K-46393,68576,-3005,9,Furniture,Office,M-Pesa
+K-46393,23783,-3661,3,Furniture,Bedroom,M-Pesa
+K-46393,2319,-660,2,Beauty,Fragrances,Bank Transfer
+K-53201,4119,1214,8,Groceries,Cereals,M-Pesa
+K-53201,4680,1213,2,Clothing,Formal Wear,M-Pesa
+K-53201,3851,257,8,Groceries,Snacks,Airtel Money
+K-53201,6843,-355,6,Beauty,Personal Care,Airtel Money
+K-94427,45499,-1351,8,Electronics,TVs,Credit Card
+K-94427,21797,-2875,10,Clothing,Formal Wear,Bank Transfer
+K-94427,3631,1050,8,Groceries,Fresh Produce,Airtel Money
+K-30074,8633,-808,5,Clothing,Formal Wear,M-Pesa
+K-30074,21562,2204,10,Clothing,Casual Wear,Bank Transfer
+K-30074,38431,-7993,5,Furniture,Bedroom,M-Pesa
+K-30074,74697,26166,10,Furniture,Outdoor,M-Pesa
+K-15093,7943,-1949,4,Clothing,Casual Wear,Credit Card
+K-73842,12868,-3666,3,Electronics,Laptops,Cash on Delivery
+K-73842,6143,-1173,6,Beauty,Makeup,Airtel Money
+K-73842,9516,-1989,5,Clothing,Casual Wear,M-Pesa
+K-73842,4589,1388,4,Beauty,Skincare,M-Pesa
+K-73842,4394,783,2,Clothing,Formal Wear,Airtel Money
+K-61669,46545,-9143,7,Furniture,Kitchen,Credit Card
+K-61669,2814,-262,3,Beauty,Fragrances,Airtel Money
+K-61669,418,-16,1,Groceries,Household,Bank Transfer
+K-61669,8718,1915,2,Electronics,Mobile Phones,Credit Card
+K-61669,990,188,2,Groceries,Cereals,Bank Transfer
+K-67543,55780,8740,7,Furniture,Office,Bank Transfer
+K-51952,19878,3388,3,Furniture,Kitchen,Airtel Money
+K-51952,35749,-4569,7,Electronics,Laptops,Airtel Money
+K-51952,64242,-18119,7,Furniture,Outdoor,Airtel Money
+K-51952,37450,13968,8,Electronics,Mobile Phones,Credit Card
+K-93323,7786,2722,1,Furniture,Living Room,Bank Transfer
+K-93323,14607,3752,2,Furniture,Office,Bank Transfer
+K-37516,1603,159,1,Clothing,Sportswear,Cash on Delivery
+K-37516,2944,-416,6,Groceries,Beverages,M-Pesa
+K-37516,43304,12510,9,Electronics,Laptops,Bank Transfer
+K-30948,13108,-1800,6,Clothing,Formal Wear,Airtel Money
+K-59763,20670,-3679,10,Clothing,Sportswear,Credit Card
+K-59763,7094,984,3,Clothing,Traditional Wear,Airtel Money
+K-59763,12434,-884,7,Clothing,Traditional Wear,Bank Transfer
+K-59763,9220,-2591,5,Clothing,Sportswear,M-Pesa
+K-59763,53831,-1303,8,Furniture,Living Room,Bank Transfer
+K-17574,3633,-174,8,Groceries,Beverages,Airtel Money
+K-17574,5010,1102,5,Beauty,Makeup,Airtel Money
+K-62878,5278,-325,6,Beauty,Makeup,Cash on Delivery
+K-62878,57790,-12846,10,Electronics,Laptops,Airtel Money
+K-83094,4421,-114,4,Beauty,Skincare,Credit Card
+K-83094,66695,-5260,9,Furniture,Kitchen,Cash on Delivery
+K-83094,8544,3387,1,Furniture,Kitchen,M-Pesa
+K-83094,2293,490,1,Clothing,Casual Wear,M-Pesa
+K-28919,4571,-253,9,Groceries,Beverages,Bank Transfer
+K-28919,11678,3552,10,Beauty,Makeup,Credit Card
+K-28919,35773,9621,6,Electronics,TVs,Airtel Money
+K-28919,4206,-724,5,Beauty,Haircare,Cash on Delivery
+K-24224,1426,-374,3,Groceries,Beverages,Credit Card
+K-24224,7859,2709,7,Beauty,Haircare,Cash on Delivery
+K-66797,17759,-4617,10,Clothing,Sportswear,Airtel Money
+K-66797,6880,90,7,Beauty,Personal Care,Bank Transfer
+K-72306,3532,1135,4,Beauty,Skincare,M-Pesa
+K-72306,12466,-43,6,Clothing,Accessories,Bank Transfer
+K-72306,14903,735,8,Clothing,Traditional Wear,M-Pesa
+K-72306,47366,10644,8,Electronics,Mobile Phones,Bank Transfer
+K-14737,929,-29,1,Beauty,Makeup,Bank Transfer
+K-14737,4539,1210,4,Beauty,Skincare,Cash on Delivery
+K-14737,6784,-798,4,Clothing,Accessories,Credit Card
+K-14737,23147,-3313,5,Electronics,Laptops,M-Pesa
+K-14737,4055,-234,2,Clothing,Accessories,Credit Card
+K-41427,1240,328,3,Groceries,Cereals,Cash on Delivery
+K-41427,14551,-2269,8,Clothing,Formal Wear,Bank Transfer
+K-41427,15850,-2854,3,Electronics,Appliances,M-Pesa
+K-95139,3101,-230,3,Beauty,Haircare,Bank Transfer
+K-95139,8644,2242,1,Furniture,Outdoor,Airtel Money
+K-95139,30945,5534,4,Furniture,Office,Bank Transfer
+K-95139,18480,-1690,2,Furniture,Outdoor,Bank Transfer
+K-37643,3865,-591,8,Groceries,Fresh Produce,Airtel Money
+K-37643,9355,-1394,4,Clothing,Sportswear,Credit Card
+K-92869,6573,2124,3,Clothing,Traditional Wear,Cash on Delivery
+K-92869,4136,1235,4,Beauty,Personal Care,M-Pesa
+K-92869,4266,-343,8,Groceries,Fresh Produce,Cash on Delivery
+K-88786,4106,725,4,Beauty,Personal Care,Bank Transfer
+K-19069,1386,-384,3,Groceries,Household,Credit Card
+K-19069,8545,-1896,4,Clothing,Accessories,Cash on Delivery
+K-17718,2311,38,2,Beauty,Haircare,Airtel Money
+K-17718,34328,9115,6,Electronics,Laptops,Cash on Delivery
+K-17718,875,160,1,Beauty,Fragrances,Bank Transfer
+K-17718,2053,-49,1,Clothing,Accessories,Airtel Money
+K-17718,82010,21534,10,Furniture,Living Room,Credit Card
+K-45406,4697,942,5,Beauty,Fragrances,Cash on Delivery
+K-45406,3667,-981,9,Groceries,Fresh Produce,Bank Transfer
+K-45406,1717,298,2,Beauty,Makeup,Airtel Money
+K-45406,17348,-946,3,Electronics,TVs,M-Pesa
+K-56070,2505,-460,5,Groceries,Fresh Produce,M-Pesa
+K-56070,53814,17239,6,Furniture,Office,Bank Transfer
+K-56070,1995,36,1,Clothing,Formal Wear,Bank Transfer
+K-34996,72524,19179,8,Furniture,Kitchen,Bank Transfer
+K-34996,48003,2086,6,Furniture,Outdoor,Cash on Delivery
+K-64512,15830,3655,3,Electronics,Mobile Phones,Cash on Delivery
+K-64512,7510,-507,1,Furniture,Bedroom,M-Pesa
+K-64512,5426,-443,3,Clothing,Casual Wear,M-Pesa
+K-64512,455,-129,1,Groceries,Snacks,Airtel Money
+K-64512,56053,-7836,10,Electronics,TVs,Airtel Money
+K-80296,4516,-388,2,Clothing,Sportswear,Bank Transfer
+K-89769,63394,4901,8,Furniture,Outdoor,M-Pesa
+K-97047,4886,887,1,Electronics,Appliances,Cash on Delivery
+K-44653,11231,2124,10,Beauty,Haircare,Airtel Money
+K-44653,47047,13319,5,Furniture,Office,M-Pesa
+K-44653,22287,-1039,10,Clothing,Traditional Wear,Bank Transfer
+K-79848,17735,5529,10,Clothing,Sportswear,Airtel Money
+K-79848,3679,48,8,Groceries,Household,Airtel Money
+K-34631,13009,3039,8,Clothing,Accessories,Bank Transfer
+K-83314,21013,5825,3,Furniture,Living Room,Cash on Delivery
+K-83314,3411,-20,7,Groceries,Fresh Produce,Airtel Money
+K-19791,8740,2092,2,Electronics,TVs,M-Pesa
+K-19791,33829,-1511,6,Electronics,TVs,M-Pesa
+K-19791,4088,-5,5,Beauty,Skincare,M-Pesa
+K-19791,3902,-404,8,Groceries,Fresh Produce,Credit Card
+K-89735,18719,-2461,2,Furniture,Outdoor,Bank Transfer
+K-81696,3291,916,2,Clothing,Traditional Wear,M-Pesa
+K-81696,47181,11882,7,Furniture,Living Room,Cash on Delivery
+K-81696,14592,-1588,2,Furniture,Kitchen,M-Pesa
+K-81696,23445,1172,4,Electronics,Mobile Phones,M-Pesa
+K-10162,39751,4231,5,Furniture,Kitchen,M-Pesa
+K-10162,4426,-58,8,Groceries,Cereals,Airtel Money
+K-10162,55756,15408,6,Furniture,Outdoor,Airtel Money
+K-10162,7403,1599,9,Beauty,Skincare,Bank Transfer
+K-10162,4017,595,7,Groceries,Snacks,Cash on Delivery
+K-54500,1795,45,2,Beauty,Fragrances,M-Pesa
+K-54500,80391,8188,9,Furniture,Living Room,Bank Transfer
+K-54500,1192,446,1,Beauty,Skincare,Cash on Delivery
+K-62408,2681,-171,5,Groceries,Household,Airtel Money
+K-62408,4756,-1087,10,Groceries,Household,Bank Transfer
+K-18117,2208,-474,5,Groceries,Household,M-Pesa
+K-18117,4155,-996,1,Electronics,Appliances,Bank Transfer
+K-18117,11165,-294,5,Clothing,Casual Wear,M-Pesa
+K-18117,14809,-3471,7,Clothing,Traditional Wear,Bank Transfer
+K-18117,2888,-470,5,Groceries,Beverages,Airtel Money
+K-77246,11277,4251,10,Beauty,Skincare,Airtel Money
+K-77246,44336,3937,5,Furniture,Bedroom,Airtel Money
+K-77246,4981,-418,9,Groceries,Beverages,Cash on Delivery
+K-77246,28803,1694,5,Electronics,Appliances,Cash on Delivery
+K-77246,73974,10422,10,Furniture,Living Room,Cash on Delivery
+K-67752,1048,-44,2,Groceries,Snacks,Bank Transfer
+K-67752,16348,-3854,3,Electronics,TVs,Airtel Money
+K-67752,1707,347,3,Groceries,Cereals,Cash on Delivery
+K-66268,58160,-7239,10,Electronics,Laptops,Credit Card
+K-66268,58396,20379,10,Electronics,Mobile Phones,Airtel Money
+K-41896,11789,1420,7,Clothing,Casual Wear,M-Pesa
+K-14243,25997,1703,6,Electronics,Mobile Phones,Cash on Delivery
+K-14243,45480,11415,9,Electronics,TVs,Credit Card
+K-14243,56364,10936,6,Furniture,Office,M-Pesa
+K-61468,15104,5364,2,Furniture,Office,M-Pesa
+K-61468,53334,-10310,6,Furniture,Living Room,Credit Card
+K-37298,428,-27,1,Groceries,Household,Airtel Money
+K-26755,1656,37,3,Groceries,Household,Bank Transfer
+K-15175,11577,957,7,Clothing,Accessories,M-Pesa
+K-15175,4047,237,4,Beauty,Makeup,Bank Transfer
+K-15175,29714,7954,7,Electronics,Laptops,Bank Transfer
+K-15175,1736,301,2,Beauty,Makeup,Credit Card
+K-35046,68784,-15654,9,Furniture,Kitchen,Credit Card
+K-35046,67380,10431,10,Furniture,Kitchen,Airtel Money
+K-35046,4329,26,1,Electronics,Mobile Phones,Bank Transfer
+K-88507,1048,103,1,Beauty,Haircare,Credit Card
+K-88507,13225,477,2,Furniture,Outdoor,Cash on Delivery
+K-98189,4397,689,9,Groceries,Beverages,Cash on Delivery
+K-98189,10737,4228,10,Beauty,Haircare,M-Pesa
+K-98189,9141,-1541,1,Furniture,Kitchen,Credit Card
+K-82855,6636,-26,7,Beauty,Fragrances,Cash on Delivery
+K-82855,63833,6575,8,Furniture,Living Room,M-Pesa
+K-82855,59162,7113,7,Furniture,Kitchen,Cash on Delivery
+K-82855,4711,-1242,10,Groceries,Fresh Produce,Bank Transfer
+K-42349,35902,8856,4,Furniture,Outdoor,Cash on Delivery
+K-42349,46954,12819,8,Electronics,Appliances,Cash on Delivery
+K-75839,441,-66,1,Groceries,Snacks,Credit Card
+K-75839,53656,12186,7,Furniture,Living Room,Credit Card
+K-75839,10782,1709,10,Beauty,Skincare,Cash on Delivery
+K-75839,3600,130,2,Clothing,Accessories,Cash on Delivery
+K-31312,5175,327,3,Clothing,Accessories,Cash on Delivery
+K-91899,6598,2428,6,Beauty,Haircare,Cash on Delivery
+K-91899,14411,-2975,8,Clothing,Sportswear,Credit Card
+K-91899,29336,-2809,5,Electronics,Mobile Phones,Airtel Money
+K-91899,8255,-151,5,Clothing,Traditional Wear,M-Pesa
+K-91899,8657,2847,10,Beauty,Personal Care,Credit Card
+K-82789,3901,969,7,Groceries,Fresh Produce,Cash on Delivery
+K-82789,9569,2209,10,Beauty,Makeup,Bank Transfer
+K-82789,19787,3663,3,Furniture,Office,Bank Transfer
+K-15144,33109,12913,7,Electronics,Mobile Phones,Cash on Delivery
+K-15144,5229,1386,3,Clothing,Accessories,M-Pesa
+K-15144,50262,16509,10,Electronics,Laptops,Bank Transfer
+K-22498,1856,-92,1,Clothing,Sportswear,Bank Transfer
+K-22498,12623,3077,6,Clothing,Sportswear,Credit Card
+K-22498,2269,-480,4,Groceries,Fresh Produce,Cash on Delivery
+K-22498,4428,903,8,Groceries,Beverages,Credit Card
+K-64177,4705,1124,5,Beauty,Personal Care,M-Pesa
+K-47206,11410,2194,2,Electronics,Accessories,M-Pesa
+K-47206,41442,-11452,9,Electronics,Mobile Phones,M-Pesa
+K-47206,1786,472,1,Clothing,Accessories,Cash on Delivery
+K-47206,35017,-6128,6,Electronics,Mobile Phones,Airtel Money
+K-47206,3991,974,8,Groceries,Snacks,Bank Transfer
+K-84958,1720,-208,2,Beauty,Personal Care,Credit Card
+K-84958,5012,1601,9,Groceries,Household,M-Pesa
+K-84958,4655,1774,9,Groceries,Beverages,Airtel Money
+K-15410,18209,199,4,Electronics,Appliances,Cash on Delivery
+K-74326,4792,1457,1,Electronics,Mobile Phones,Cash on Delivery
+K-74326,10704,3994,2,Electronics,TVs,Bank Transfer
+K-74326,4790,-38,2,Clothing,Accessories,Cash on Delivery
+K-26300,4735,203,2,Clothing,Formal Wear,Airtel Money
+K-77617,3114,1207,6,Groceries,Household,Airtel Money
+K-56076,3761,-876,9,Groceries,Beverages,Cash on Delivery
+K-56076,11919,-2821,5,Clothing,Traditional Wear,M-Pesa
+K-56076,49780,16388,9,Electronics,Accessories,Airtel Money
+K-50750,8588,-385,9,Beauty,Skincare,Cash on Delivery
+K-50750,9885,-2430,5,Clothing,Accessories,M-Pesa
+K-50750,3406,-1010,8,Groceries,Snacks,Bank Transfer
+K-15760,27627,1677,4,Furniture,Living Room,Airtel Money
+K-15760,22321,-4026,5,Electronics,TVs,M-Pesa
+K-15760,41662,-6721,8,Electronics,TVs,Cash on Delivery
+K-77240,2913,163,3,Beauty,Haircare,M-Pesa
+K-77240,992,330,2,Groceries,Household,Credit Card
+K-77240,15671,-1161,3,Electronics,Accessories,Credit Card
+K-77240,3445,768,4,Beauty,Makeup,Bank Transfer
+K-39734,5191,367,3,Clothing,Casual Wear,Bank Transfer
+K-39734,80254,-10178,10,Furniture,Outdoor,Credit Card
+K-39734,459,-95,1,Groceries,Snacks,Credit Card
+K-39734,32646,9786,6,Electronics,Accessories,Airtel Money
+K-95919,30579,5125,7,Electronics,TVs,Cash on Delivery
+K-95919,1937,214,4,Groceries,Snacks,Bank Transfer
+K-95919,1584,126,3,Groceries,Cereals,Cash on Delivery
+K-95919,5928,1364,1,Electronics,Accessories,Credit Card
+K-23244,1543,240,3,Groceries,Cereals,Credit Card
+K-98219,5882,1608,10,Groceries,Cereals,Cash on Delivery
+K-63462,15043,-260,9,Clothing,Sportswear,Cash on Delivery
+K-63462,7124,-611,4,Clothing,Sportswear,Credit Card
+K-63462,4413,1070,1,Electronics,Accessories,Bank Transfer
+K-88842,23328,2888,10,Clothing,Traditional Wear,Cash on Delivery
+K-60501,7023,1778,8,Beauty,Skincare,Cash on Delivery
+K-60501,4634,-1372,8,Groceries,Fresh Produce,Credit Card
+K-77258,5987,1473,3,Clothing,Traditional Wear,Airtel Money
+K-77258,452,-21,1,Groceries,Beverages,Bank Transfer
+K-77258,19901,50,10,Clothing,Casual Wear,Credit Card
+K-45565,14120,3684,6,Clothing,Casual Wear,Cash on Delivery
+K-80347,11640,297,5,Clothing,Accessories,Bank Transfer
+K-80347,59042,17246,10,Electronics,Mobile Phones,Airtel Money
+K-80347,4589,-1026,4,Beauty,Haircare,M-Pesa
+K-80347,1094,226,2,Groceries,Snacks,Cash on Delivery
+K-80347,68130,1366,9,Furniture,Kitchen,Credit Card
+K-23355,9004,1065,1,Furniture,Outdoor,Bank Transfer
+K-23355,1954,643,2,Beauty,Skincare,Cash on Delivery
+K-23355,2587,624,3,Beauty,Fragrances,Airtel Money
+K-65456,17070,1703,9,Clothing,Traditional Wear,Credit Card
+K-65456,53439,-9421,9,Electronics,Accessories,Airtel Money
+K-65456,4896,1071,1,Electronics,Accessories,Credit Card
+K-65456,7284,-910,8,Beauty,Personal Care,M-Pesa
+K-65456,9828,541,5,Clothing,Casual Wear,M-Pesa
+K-61057,472,-82,1,Groceries,Cereals,M-Pesa
+K-61057,11164,-396,5,Clothing,Sportswear,Cash on Delivery
+K-45916,69005,10094,8,Furniture,Outdoor,Cash on Delivery
+K-70049,4823,432,5,Beauty,Skincare,Cash on Delivery
+K-42025,25411,1716,5,Electronics,TVs,M-Pesa
+K-42025,6278,214,7,Beauty,Haircare,M-Pesa
+K-76339,11815,1858,2,Electronics,Laptops,M-Pesa
+K-76339,22451,-4128,4,Electronics,TVs,Cash on Delivery
+K-76339,7140,1117,4,Clothing,Sportswear,M-Pesa
+K-48104,9309,159,2,Electronics,TVs,Airtel Money
+K-48104,12854,4037,7,Clothing,Accessories,Bank Transfer
+K-48104,15748,-3177,2,Furniture,Living Room,Airtel Money
+K-48104,6249,2321,3,Clothing,Sportswear,Bank Transfer
+K-38722,32680,-9329,4,Furniture,Bedroom,Airtel Money
+K-38722,2171,-507,1,Clothing,Sportswear,Airtel Money
+K-38722,39877,12204,7,Electronics,Appliances,Airtel Money
+K-38722,600,101,1,Groceries,Snacks,Airtel Money
+K-38722,19622,6721,10,Clothing,Casual Wear,Bank Transfer
+K-65306,2516,-277,3,Beauty,Personal Care,Cash on Delivery
+K-65306,1954,699,1,Clothing,Accessories,Airtel Money
+K-65306,9177,3162,1,Furniture,Living Room,Bank Transfer
+K-95343,4745,-872,9,Groceries,Beverages,Airtel Money
+K-95343,4501,1037,2,Clothing,Sportswear,Airtel Money
+K-95343,3550,479,4,Beauty,Skincare,Cash on Delivery
+K-35188,16044,5107,7,Clothing,Traditional Wear,Credit Card
+K-35188,31853,-494,4,Furniture,Outdoor,Airtel Money
+K-29076,16818,-3772,10,Clothing,Sportswear,Bank Transfer
+K-45150,8740,460,8,Beauty,Fragrances,M-Pesa
+K-11631,76090,5551,9,Furniture,Outdoor,Cash on Delivery
+K-11631,9035,-82,9,Beauty,Personal Care,Credit Card
+K-11631,23100,8377,5,Electronics,TVs,Credit Card
+K-11631,41314,12635,9,Electronics,Laptops,Cash on Delivery
+K-11631,1224,-201,3,Groceries,Household,M-Pesa
+K-84146,1717,353,2,Beauty,Makeup,M-Pesa
+K-84146,2183,-411,5,Groceries,Household,Cash on Delivery
+K-84146,7942,-981,4,Clothing,Casual Wear,Credit Card
+K-84146,2578,26,3,Beauty,Skincare,Airtel Money
+K-16037,563,205,1,Groceries,Household,Credit Card
+K-16037,7078,-875,3,Clothing,Sportswear,M-Pesa
+K-22888,2288,-359,1,Clothing,Casual Wear,Airtel Money
+K-22888,44791,11572,10,Electronics,Mobile Phones,Cash on Delivery
+K-22888,1164,-257,2,Groceries,Cereals,Airtel Money
+K-22888,39416,-2541,7,Electronics,Mobile Phones,Credit Card
+K-22888,48939,-11997,9,Electronics,TVs,Cash on Delivery
+K-25994,54554,-428,10,Electronics,TVs,Credit Card
+K-52525,13318,1754,2,Furniture,Kitchen,Airtel Money
+K-52525,22134,-5266,5,Electronics,TVs,M-Pesa
+K-52525,5393,-486,1,Electronics,Mobile Phones,M-Pesa
+K-52525,4328,635,2,Clothing,Traditional Wear,Airtel Money
+K-52525,8859,-951,9,Beauty,Makeup,Airtel Money
+K-25302,21688,4879,10,Clothing,Formal Wear,M-Pesa
+K-25302,30208,-8396,4,Furniture,Living Room,Cash on Delivery
+K-25302,47590,-10958,7,Furniture,Living Room,Bank Transfer
+K-25302,7845,-1224,7,Beauty,Skincare,Credit Card
+K-25302,1106,385,1,Beauty,Skincare,Airtel Money
+K-85983,12231,260,6,Clothing,Accessories,Airtel Money
+K-85983,7993,-1410,8,Beauty,Personal Care,M-Pesa
+K-85983,3681,-949,8,Groceries,Fresh Produce,M-Pesa
+K-85286,4811,832,10,Groceries,Fresh Produce,Cash on Delivery
+K-85286,23301,-5337,3,Furniture,Kitchen,M-Pesa
+K-32231,1750,172,2,Beauty,Fragrances,M-Pesa
+K-32231,46329,-10994,10,Electronics,TVs,Airtel Money
+K-32231,31116,-5176,4,Furniture,Kitchen,Airtel Money
+K-32231,6346,1091,3,Clothing,Sportswear,Airtel Money
+K-32231,2567,-248,6,Groceries,Household,Cash on Delivery
+K-36577,419,96,1,Groceries,Cereals,M-Pesa
+K-36577,44828,12556,9,Electronics,Appliances,Credit Card
+K-36577,21320,-5018,10,Clothing,Formal Wear,M-Pesa
+K-54936,9789,309,2,Electronics,Laptops,Cash on Delivery
+K-54936,6794,1379,3,Clothing,Sportswear,Bank Transfer
+K-54936,15380,74,2,Furniture,Bedroom,M-Pesa
+K-54936,1372,-293,3,Groceries,Snacks,Cash on Delivery
+K-34509,34408,9511,6,Electronics,TVs,Credit Card
+K-34509,7723,2152,9,Beauty,Fragrances,M-Pesa
+K-76770,43544,6697,6,Furniture,Office,M-Pesa
+K-76770,26113,-1281,6,Electronics,Accessories,Bank Transfer
+K-76770,13705,-210,7,Clothing,Sportswear,M-Pesa
+K-76770,10908,2652,2,Electronics,TVs,Cash on Delivery
+K-76770,5612,577,10,Groceries,Fresh Produce,M-Pesa
+K-40380,41297,9043,6,Furniture,Office,Airtel Money
+K-40380,4651,-1098,2,Clothing,Formal Wear,M-Pesa
+K-40380,8034,634,7,Beauty,Skincare,M-Pesa
+K-40380,5900,720,3,Clothing,Formal Wear,Credit Card
+K-89630,4051,-587,10,Groceries,Household,Airtel Money
+K-89630,1010,394,1,Beauty,Skincare,Credit Card
+K-79523,3582,1304,8,Groceries,Cereals,Credit Card
+K-79523,2291,-27,2,Beauty,Makeup,Bank Transfer
+K-75078,3857,1202,9,Groceries,Snacks,M-Pesa
+K-75078,7351,-722,7,Beauty,Skincare,M-Pesa
+K-75078,7986,2150,8,Beauty,Fragrances,M-Pesa
+K-75078,18936,6453,9,Clothing,Formal Wear,M-Pesa
+K-38540,10437,1828,6,Clothing,Accessories,Airtel Money
+K-53448,5754,1488,3,Clothing,Accessories,M-Pesa
+K-53448,13294,-3378,6,Clothing,Formal Wear,Credit Card
+K-13490,4064,1404,2,Clothing,Formal Wear,Cash on Delivery
+K-13490,2942,-852,5,Groceries,Cereals,Credit Card
+K-13490,3504,723,7,Groceries,Household,Bank Transfer
+K-13490,4342,-811,2,Clothing,Traditional Wear,Airtel Money
+K-90821,5435,877,10,Groceries,Household,Cash on Delivery
+K-90821,10217,1569,9,Beauty,Personal Care,Bank Transfer
+K-90821,15630,3566,8,Clothing,Traditional Wear,Airtel Money
+K-90821,6855,-20,7,Beauty,Makeup,M-Pesa
+K-14045,2379,-387,5,Groceries,Beverages,Bank Transfer
+K-14045,8130,-2097,10,Beauty,Makeup,Bank Transfer
+K-14045,39522,4911,8,Electronics,TVs,Airtel Money
+K-14045,2046,-332,1,Clothing,Formal Wear,Airtel Money
+K-14045,2788,471,6,Groceries,Household,M-Pesa
+K-91534,46696,13894,5,Furniture,Office,Cash on Delivery
+K-91534,23514,8896,10,Clothing,Sportswear,M-Pesa
+K-45868,5557,-1403,5,Beauty,Skincare,Cash on Delivery
+K-45868,30025,7897,7,Electronics,TVs,Airtel Money
+K-45868,24009,-3907,6,Electronics,Accessories,M-Pesa
+K-15647,4042,1473,7,Groceries,Snacks,Credit Card
+K-15647,17199,-2359,10,Clothing,Sportswear,Bank Transfer
+K-57343,7987,530,1,Furniture,Bedroom,M-Pesa
+K-57343,11449,242,7,Clothing,Accessories,Airtel Money
+K-57343,6469,-1035,4,Clothing,Accessories,Cash on Delivery
+K-50228,13159,-3322,7,Clothing,Formal Wear,Bank Transfer
+K-50228,41273,-6379,9,Electronics,Accessories,Bank Transfer
+K-50228,26013,7382,4,Furniture,Bedroom,Credit Card
+K-50228,5752,-1328,1,Electronics,Appliances,Bank Transfer
+K-87525,3470,1341,6,Groceries,Snacks,Bank Transfer
+K-87525,6714,-1844,8,Beauty,Fragrances,Credit Card
+K-60645,21127,3185,4,Electronics,Accessories,Bank Transfer
+K-60645,2553,-135,5,Groceries,Household,Cash on Delivery
+K-60645,46693,1882,8,Electronics,Appliances,Cash on Delivery
+K-60645,4219,-334,10,Groceries,Snacks,Cash on Delivery
+K-40503,73915,29105,9,Furniture,Outdoor,Credit Card
+K-40503,24310,8393,3,Furniture,Office,Bank Transfer
+K-70638,10803,-177,6,Clothing,Accessories,M-Pesa
+K-70638,39858,-10508,7,Electronics,TVs,Bank Transfer
+K-66998,4368,-580,2,Clothing,Formal Wear,Cash on Delivery
+K-66998,23219,2187,3,Furniture,Living Room,Cash on Delivery
+K-66998,8657,771,9,Beauty,Skincare,Credit Card
+K-66998,2265,-149,1,Clothing,Traditional Wear,Bank Transfer
+K-62295,25724,6820,5,Electronics,Appliances,Credit Card
+K-62295,8854,1958,8,Beauty,Skincare,Credit Card
+K-35357,13473,3535,8,Clothing,Formal Wear,Airtel Money
+K-53033,1155,284,1,Beauty,Haircare,M-Pesa
+K-53033,1267,19,3,Groceries,Cereals,Bank Transfer
+K-53033,2327,-371,2,Beauty,Skincare,Credit Card
+K-99767,439,101,1,Groceries,Cereals,Airtel Money
+K-99767,5115,14,9,Groceries,Snacks,Credit Card
+K-12750,2296,-325,4,Groceries,Cereals,Airtel Money
+K-12750,5304,-52,10,Groceries,Household,Airtel Money
+K-58464,11995,2640,10,Beauty,Makeup,Cash on Delivery
+K-58464,72715,-14365,9,Furniture,Kitchen,Bank Transfer
+K-58464,15110,-1750,8,Clothing,Formal Wear,Bank Transfer
+K-79670,20438,1692,4,Electronics,Appliances,M-Pesa
+K-79670,3430,757,3,Beauty,Haircare,Bank Transfer
+K-79670,15851,-787,3,Electronics,Accessories,Credit Card
+K-42812,12010,640,3,Electronics,TVs,Credit Card
+K-42812,48920,-5843,7,Furniture,Bedroom,Credit Card
+K-49243,18137,-2630,10,Clothing,Formal Wear,M-Pesa
+K-49243,1366,-262,3,Groceries,Beverages,M-Pesa
+K-47691,1878,144,2,Beauty,Haircare,Cash on Delivery
+K-25192,36948,2447,8,Electronics,Mobile Phones,Credit Card
+K-25192,9689,-2586,5,Clothing,Accessories,Credit Card
+K-25192,7360,530,1,Furniture,Office,Bank Transfer
+K-25192,7480,347,7,Beauty,Skincare,Bank Transfer
+K-64920,38226,-4518,8,Electronics,Mobile Phones,M-Pesa
+K-64920,3566,-243,4,Beauty,Fragrances,M-Pesa
+K-64920,2478,896,5,Groceries,Fresh Produce,M-Pesa
+K-64920,8297,-589,5,Clothing,Sportswear,Airtel Money
+K-64920,8853,-1895,5,Clothing,Traditional Wear,Credit Card
+K-72845,18154,-2149,2,Furniture,Bedroom,Airtel Money
+K-11701,1208,-3,3,Groceries,Beverages,M-Pesa
+K-70239,35544,11316,7,Electronics,Laptops,Credit Card
+K-55886,8339,-1139,7,Beauty,Fragrances,Airtel Money
+K-55886,2487,-575,3,Beauty,Fragrances,Bank Transfer
+K-55886,35314,9281,8,Electronics,Laptops,Credit Card
+K-55886,44599,-4093,9,Electronics,Mobile Phones,Cash on Delivery
+K-65439,3416,1050,3,Beauty,Skincare,Bank Transfer
+K-65439,868,-205,2,Groceries,Beverages,M-Pesa
+K-74973,4537,-1339,5,Beauty,Haircare,Credit Card
+K-74973,4132,-430,7,Groceries,Snacks,Bank Transfer
+K-58941,86124,-8904,10,Furniture,Outdoor,Airtel Money
+K-58941,3492,-668,3,Beauty,Personal Care,M-Pesa
+K-58941,48912,-13698,10,Electronics,Accessories,Credit Card
+K-58941,6402,-948,1,Furniture,Living Room,M-Pesa
+K-48151,32714,12327,6,Electronics,Appliances,Cash on Delivery
+K-48151,14122,-1704,6,Clothing,Traditional Wear,Cash on Delivery
+K-48151,8129,722,5,Clothing,Formal Wear,Credit Card
+K-48151,35296,-5003,8,Electronics,Appliances,Bank Transfer
+K-10886,31127,5252,6,Electronics,Appliances,Credit Card
+K-10886,7949,1771,8,Beauty,Makeup,Cash on Delivery
+K-10886,78101,4269,10,Furniture,Kitchen,Bank Transfer
+K-10886,78478,-9674,10,Furniture,Outdoor,Bank Transfer
+K-10886,5835,-1506,1,Electronics,Laptops,M-Pesa
+K-30621,2997,-431,3,Beauty,Personal Care,M-Pesa
+K-30621,30339,-7901,4,Furniture,Kitchen,Credit Card
+K-30621,8994,617,8,Beauty,Haircare,Credit Card
+K-30621,4698,1258,10,Groceries,Cereals,Cash on Delivery
+K-74960,66243,5910,10,Furniture,Kitchen,Cash on Delivery
+K-74960,52044,7751,8,Furniture,Outdoor,Bank Transfer
+K-74960,1177,-9,1,Beauty,Fragrances,Airtel Money
+K-52338,5130,-703,1,Electronics,Appliances,Cash on Delivery
+K-37929,34097,-3086,6,Electronics,Accessories,Credit Card
+K-37929,2732,-673,5,Groceries,Beverages,Cash on Delivery
+K-65340,47697,12201,8,Electronics,Laptops,Bank Transfer
+K-65340,4815,1102,1,Electronics,Accessories,Airtel Money
+K-65340,6740,-1200,6,Beauty,Personal Care,Credit Card
+K-65340,9119,-1571,5,Clothing,Traditional Wear,Bank Transfer
+K-65340,10183,3493,2,Electronics,Appliances,Bank Transfer
+K-11362,4753,-153,9,Groceries,Cereals,Bank Transfer
+K-11362,93077,7469,10,Furniture,Office,Bank Transfer
+K-11362,10156,2532,6,Clothing,Formal Wear,Credit Card
+K-11362,56219,1807,10,Electronics,Appliances,Credit Card
+K-57920,36729,-6174,7,Electronics,Appliances,M-Pesa
+K-57920,2668,-517,5,Groceries,Snacks,Airtel Money
+K-57920,569,-134,1,Groceries,Household,M-Pesa
+K-78505,39777,10129,6,Furniture,Bedroom,Cash on Delivery
+K-64620,19478,7428,10,Clothing,Accessories,Airtel Money
+K-64620,2201,-564,4,Groceries,Snacks,Cash on Delivery
+K-64620,8456,-758,9,Beauty,Skincare,Credit Card
+K-64620,4927,-452,6,Beauty,Makeup,Bank Transfer
+K-64620,2836,1062,6,Groceries,Fresh Produce,Cash on Delivery
+K-68925,27655,3603,5,Electronics,TVs,M-Pesa
+K-68925,5373,-406,10,Groceries,Snacks,M-Pesa
+K-68925,8754,-2272,4,Clothing,Traditional Wear,Cash on Delivery
+K-68925,37827,6270,9,Electronics,Laptops,Cash on Delivery
+K-34495,10020,-1135,10,Beauty,Personal Care,Bank Transfer
+K-34495,43996,8346,10,Electronics,Mobile Phones,Airtel Money
+K-34495,1707,541,1,Clothing,Formal Wear,Credit Card
+K-78659,19850,-4294,3,Furniture,Bedroom,Bank Transfer
+K-78659,14180,4884,8,Clothing,Sportswear,M-Pesa
+K-78659,7663,-1062,8,Beauty,Personal Care,Cash on Delivery
+K-31700,18902,-2970,8,Clothing,Sportswear,Credit Card
+K-78999,3479,1316,7,Groceries,Beverages,Bank Transfer
+K-78999,5349,1825,3,Clothing,Casual Wear,Credit Card
+K-78999,35480,1539,7,Electronics,Laptops,Credit Card
+K-78999,8926,-1124,1,Furniture,Bedroom,Airtel Money
+K-78999,48667,14546,10,Electronics,Laptops,M-Pesa
+K-49984,10643,3741,6,Clothing,Formal Wear,Bank Transfer
+K-49984,26031,-6888,4,Furniture,Office,Airtel Money
+K-49984,9834,-720,5,Clothing,Accessories,Bank Transfer
+K-49984,20168,5591,3,Furniture,Outdoor,Cash on Delivery
+K-49984,8306,-1774,1,Furniture,Office,Credit Card
+K-73556,2860,-95,6,Groceries,Household,Bank Transfer
+K-73556,52159,20317,10,Electronics,Appliances,Bank Transfer
+K-42661,2087,2,2,Beauty,Haircare,Bank Transfer
+K-42661,6430,-553,8,Beauty,Skincare,Bank Transfer
+K-42661,24716,-2301,3,Furniture,Office,M-Pesa
+K-42661,16954,1600,3,Electronics,Mobile Phones,Cash on Delivery
+K-42661,2577,77,6,Groceries,Fresh Produce,M-Pesa
+K-35565,18367,5305,8,Clothing,Formal Wear,Bank Transfer
+K-35565,28465,2938,5,Electronics,Mobile Phones,M-Pesa
+K-35565,13564,2460,3,Electronics,Laptops,M-Pesa
+K-17841,10072,-2729,2,Electronics,TVs,Airtel Money
+K-17841,67850,189,10,Furniture,Kitchen,Credit Card
+K-81677,5672,-862,3,Clothing,Sportswear,Cash on Delivery
+K-81677,1458,-238,3,Groceries,Cereals,Credit Card
+K-28126,2085,359,2,Beauty,Makeup,Bank Transfer
+K-28126,20589,-5864,9,Clothing,Formal Wear,M-Pesa
+K-28126,56062,899,10,Electronics,Mobile Phones,Bank Transfer
+K-28126,2226,492,5,Groceries,Cereals,Cash on Delivery
+K-61602,54529,4311,10,Electronics,Accessories,Airtel Money
+K-61602,10064,-62,10,Beauty,Makeup,Airtel Money
+K-61602,11261,-363,6,Clothing,Traditional Wear,Credit Card
+K-61602,1720,-51,1,Clothing,Traditional Wear,Airtel Money
+K-77181,4238,1364,1,Electronics,Laptops,Credit Card
+K-77181,2240,174,4,Groceries,Beverages,Airtel Money
+K-77181,89789,4539,10,Furniture,Bedroom,Bank Transfer
+K-77477,48465,9224,7,Furniture,Living Room,M-Pesa
+K-77477,1718,48,4,Groceries,Fresh Produce,Cash on Delivery
+K-92354,27342,7756,5,Electronics,Laptops,Bank Transfer
+K-92354,26955,6158,6,Electronics,Appliances,Credit Card
+K-92354,71882,-2934,9,Furniture,Kitchen,Airtel Money
+K-92354,82771,32481,9,Furniture,Outdoor,Cash on Delivery
+K-21827,1657,-179,2,Beauty,Personal Care,Bank Transfer
+K-63240,3678,717,4,Beauty,Personal Care,Cash on Delivery
+K-63240,5220,424,10,Groceries,Household,M-Pesa
+K-63240,3359,1054,7,Groceries,Household,Cash on Delivery
+K-63240,15166,-1079,8,Clothing,Accessories,Cash on Delivery
+K-63240,8582,-1346,4,Clothing,Formal Wear,Cash on Delivery
+K-51325,594,164,1,Groceries,Snacks,Credit Card
+K-51325,6982,493,3,Clothing,Traditional Wear,Cash on Delivery
+K-62006,9536,2195,10,Beauty,Personal Care,Credit Card
+K-62006,3460,-285,8,Groceries,Snacks,M-Pesa
+K-52672,47640,-5363,7,Furniture,Bedroom,Cash on Delivery
+K-52672,8868,2396,8,Beauty,Haircare,Airtel Money
+K-52672,3598,1295,3,Beauty,Makeup,Airtel Money
+K-52672,29863,2692,6,Electronics,Accessories,Bank Transfer
+K-97020,12953,3331,7,Clothing,Casual Wear,Cash on Delivery
+K-48757,84164,18322,9,Furniture,Living Room,Cash on Delivery
+K-48757,1164,87,2,Groceries,Snacks,Bank Transfer
+K-48757,5663,2251,10,Groceries,Cereals,Credit Card
+K-26729,1316,42,3,Groceries,Beverages,Airtel Money
+K-26729,39704,-4816,8,Electronics,Accessories,Airtel Money
+K-26729,8252,-1539,4,Clothing,Traditional Wear,M-Pesa
+K-26729,4450,877,5,Beauty,Makeup,M-Pesa
+K-26729,28421,-2091,4,Furniture,Outdoor,Bank Transfer
+K-49901,6711,-1300,1,Furniture,Outdoor,Airtel Money
+K-49901,2188,-263,5,Groceries,Household,Credit Card
+K-49901,863,-118,1,Beauty,Fragrances,M-Pesa
+K-49901,67929,15493,8,Furniture,Office,Credit Card
+K-10397,4658,1426,1,Electronics,TVs,Cash on Delivery
+K-10397,26196,1141,5,Electronics,Accessories,Bank Transfer
+K-10397,6764,181,1,Furniture,Living Room,Cash on Delivery
+K-10397,64582,-15051,9,Furniture,Outdoor,M-Pesa
+K-10397,19544,2865,4,Electronics,Appliances,Cash on Delivery
+K-13850,5099,-894,1,Electronics,Mobile Phones,Cash on Delivery
+K-13850,9184,-1232,5,Clothing,Sportswear,Bank Transfer
+K-48123,42598,2461,9,Electronics,Appliances,M-Pesa
+K-48123,3571,49,3,Beauty,Haircare,Credit Card
+K-48123,21115,-4250,4,Electronics,Accessories,Credit Card
+K-48123,22914,-4282,4,Electronics,Laptops,Airtel Money
+K-62056,20574,-1971,4,Electronics,Laptops,Credit Card
+K-37723,53887,11127,10,Electronics,TVs,Bank Transfer
+K-37723,22038,-3027,3,Furniture,Bedroom,M-Pesa
+K-37723,1373,-239,3,Groceries,Beverages,Cash on Delivery
+K-87227,23448,2976,10,Clothing,Formal Wear,Airtel Money
+K-87227,21443,-808,9,Clothing,Sportswear,M-Pesa
+K-82970,8890,3377,4,Clothing,Formal Wear,Airtel Money
+K-82970,14341,-958,3,Electronics,TVs,M-Pesa
+K-82970,5763,491,10,Groceries,Household,M-Pesa
+K-17178,23859,2223,3,Furniture,Bedroom,Bank Transfer
+K-60531,19485,-2578,4,Electronics,Laptops,M-Pesa
+K-60531,3243,-193,2,Clothing,Sportswear,M-Pesa
+K-61457,1875,-441,1,Clothing,Accessories,Credit Card
+K-61457,45810,-10612,5,Furniture,Kitchen,Credit Card
+K-61457,58127,-12848,10,Electronics,Mobile Phones,M-Pesa
+K-35851,5948,757,6,Beauty,Personal Care,Credit Card
+K-35851,11428,3821,6,Clothing,Formal Wear,Bank Transfer
+K-93686,4310,1052,5,Beauty,Skincare,Cash on Delivery
+K-93686,4332,122,5,Beauty,Personal Care,Bank Transfer
+K-93686,9988,3664,2,Electronics,TVs,Cash on Delivery
+K-98886,8796,2782,8,Beauty,Haircare,M-Pesa
+K-77631,20587,-5122,9,Clothing,Traditional Wear,Cash on Delivery
+K-77631,44875,14079,9,Electronics,Laptops,Cash on Delivery
+K-83470,14182,4908,7,Clothing,Sportswear,M-Pesa
+K-83470,55966,19413,8,Furniture,Outdoor,Cash on Delivery
+K-83470,8381,-1617,4,Clothing,Traditional Wear,Airtel Money
+K-83470,17741,-4690,4,Electronics,TVs,Bank Transfer
+K-80428,4569,-9,2,Clothing,Traditional Wear,M-Pesa
+K-80428,74578,-21811,9,Furniture,Outdoor,Credit Card
+K-28031,4359,-963,10,Groceries,Snacks,M-Pesa
+K-28031,1251,64,3,Groceries,Beverages,M-Pesa
+K-61450,961,342,2,Groceries,Beverages,Bank Transfer
+K-71295,3762,-887,9,Groceries,Snacks,Cash on Delivery
+K-71295,2755,245,5,Groceries,Snacks,M-Pesa
+K-71295,49679,12285,10,Electronics,Laptops,Credit Card
+K-71295,6661,254,8,Beauty,Haircare,Airtel Money
+K-71295,46833,8101,8,Electronics,Mobile Phones,Cash on Delivery
+K-37784,3461,582,3,Beauty,Skincare,Credit Card
+K-50091,23271,1811,4,Electronics,Appliances,Bank Transfer
+K-50091,6850,2730,8,Beauty,Makeup,Airtel Money
+K-50091,848,32,2,Groceries,Household,Bank Transfer
+K-12619,1564,-189,3,Groceries,Cereals,Airtel Money
+K-12619,10836,2340,6,Clothing,Accessories,Bank Transfer
+K-12619,4113,703,2,Clothing,Casual Wear,Credit Card
+K-12619,466,122,1,Groceries,Cereals,Credit Card
+K-23532,72837,5613,10,Furniture,Outdoor,Bank Transfer
+K-44236,5515,1680,3,Clothing,Casual Wear,M-Pesa
+K-44236,15514,1513,3,Electronics,Accessories,Airtel Money
+K-50472,33184,1549,6,Electronics,Appliances,Airtel Money
+K-24667,38780,11917,8,Electronics,TVs,Airtel Money
+K-24667,2932,-636,7,Groceries,Snacks,M-Pesa
+K-24667,72047,7656,8,Furniture,Living Room,Airtel Money
+K-24667,16874,1111,4,Electronics,Appliances,Bank Transfer
+K-24667,12536,351,3,Electronics,Appliances,Airtel Money
+K-96726,57371,13960,8,Furniture,Office,Airtel Money
+K-96726,5806,794,10,Groceries,Beverages,Credit Card
+K-44446,1151,-9,1,Beauty,Makeup,Bank Transfer
+K-44446,4320,-577,9,Groceries,Cereals,M-Pesa
+K-44446,14634,-1149,7,Clothing,Traditional Wear,Airtel Money
+K-44446,7133,2701,8,Beauty,Makeup,Bank Transfer
+K-44446,51705,3139,6,Furniture,Kitchen,Cash on Delivery
+K-58633,4288,1621,10,Groceries,Snacks,Airtel Money
+K-58633,58086,1956,7,Furniture,Outdoor,Credit Card
+K-58633,13728,-2073,6,Clothing,Formal Wear,Credit Card
+K-58633,14244,-1855,3,Electronics,TVs,Bank Transfer
+K-27034,2887,-806,7,Groceries,Cereals,Cash on Delivery
+K-27034,3433,-197,6,Groceries,Cereals,Bank Transfer
+K-27034,8176,3125,1,Furniture,Living Room,Credit Card
+K-72056,86089,16353,9,Furniture,Bedroom,Bank Transfer
+K-72056,72817,13262,10,Furniture,Bedroom,M-Pesa
+K-72056,29329,8140,6,Electronics,Laptops,Airtel Money
+K-72056,3554,-868,8,Groceries,Beverages,Credit Card
+K-41991,2838,788,3,Beauty,Skincare,Bank Transfer
+K-41991,29234,-4499,6,Electronics,TVs,Cash on Delivery
+K-41991,51161,-4493,6,Furniture,Kitchen,Credit Card
+K-41991,45422,-8806,9,Electronics,Mobile Phones,M-Pesa
+K-56729,8700,-1347,8,Beauty,Makeup,Bank Transfer
+K-56729,1414,122,3,Groceries,Fresh Produce,Airtel Money
+K-56729,8929,-2530,9,Beauty,Makeup,Cash on Delivery
+K-56729,17819,-462,10,Clothing,Traditional Wear,Cash on Delivery
+K-18113,2301,-578,1,Clothing,Traditional Wear,Airtel Money
+K-18113,53127,18105,6,Furniture,Living Room,Airtel Money
+K-18113,4172,-535,2,Clothing,Accessories,M-Pesa
+K-18113,6590,2491,3,Clothing,Sportswear,Bank Transfer
+K-18113,28559,9161,5,Electronics,Mobile Phones,M-Pesa
+K-74870,84972,23192,9,Furniture,Bedroom,Credit Card
+K-74870,9574,-2186,4,Clothing,Traditional Wear,Airtel Money
+K-74870,5187,229,3,Clothing,Accessories,Cash on Delivery
+K-74870,925,-158,2,Groceries,Fresh Produce,M-Pesa
+K-74870,7764,2389,9,Beauty,Personal Care,Cash on Delivery
+K-93432,9864,-2659,2,Electronics,Laptops,Bank Transfer
+K-93432,42384,-5970,6,Furniture,Kitchen,Airtel Money
+K-80274,3710,631,4,Beauty,Makeup,Airtel Money
+K-80274,34010,-4062,5,Furniture,Kitchen,Credit Card
+K-80274,3664,-1071,2,Clothing,Accessories,M-Pesa
+K-33778,4762,271,4,Beauty,Skincare,Credit Card
+K-46589,7000,2203,8,Beauty,Fragrances,Credit Card
+K-46589,802,-1,1,Beauty,Haircare,Bank Transfer
+K-46589,49972,-13761,10,Electronics,Accessories,Bank Transfer
+K-46589,12474,-1829,3,Electronics,Appliances,Airtel Money
+K-80932,3380,850,4,Beauty,Personal Care,Airtel Money
+K-88199,8895,1346,10,Beauty,Skincare,Credit Card
+K-88199,19561,-4625,3,Furniture,Kitchen,Airtel Money
+K-38517,962,-109,1,Beauty,Personal Care,Credit Card
+K-38517,23920,-73,3,Furniture,Outdoor,Airtel Money
+K-75186,46871,14537,6,Furniture,Kitchen,Airtel Money
+K-77595,13123,-2810,3,Electronics,Laptops,M-Pesa
+K-77595,9104,-420,8,Beauty,Haircare,Credit Card
+K-67080,12541,868,3,Electronics,TVs,M-Pesa
+K-67080,74237,-3611,8,Furniture,Kitchen,Cash on Delivery
+K-67080,66439,447,9,Furniture,Bedroom,M-Pesa
+K-67080,34381,1106,8,Electronics,Accessories,Bank Transfer
+K-95132,7226,1209,1,Furniture,Outdoor,Bank Transfer
+K-95132,4660,1581,9,Groceries,Fresh Produce,Airtel Money
+K-18343,39439,-4375,8,Electronics,TVs,Credit Card
+K-46510,65463,13786,10,Furniture,Living Room,Cash on Delivery
+K-46510,4138,-386,5,Beauty,Personal Care,Cash on Delivery
+K-46510,5627,841,10,Groceries,Beverages,Airtel Money
+K-84433,28334,-5595,5,Electronics,Appliances,M-Pesa
+K-84433,4382,1285,5,Beauty,Fragrances,Bank Transfer
+K-84433,23203,-4952,5,Electronics,Appliances,Bank Transfer
+K-73861,7481,-1516,7,Beauty,Haircare,Airtel Money
+K-73861,35185,-7106,6,Electronics,Accessories,Bank Transfer
+K-73861,69116,21563,10,Furniture,Kitchen,Bank Transfer
+K-73861,7135,2416,3,Clothing,Accessories,Credit Card
+K-61606,15040,789,3,Electronics,TVs,Cash on Delivery
+K-68569,31875,12470,4,Furniture,Office,M-Pesa
+K-68569,9988,-2476,10,Beauty,Personal Care,Bank Transfer
+K-68569,3049,115,6,Groceries,Snacks,Cash on Delivery
+K-39330,61681,-6492,9,Furniture,Office,M-Pesa
+K-20847,7158,1724,6,Beauty,Fragrances,Credit Card
+K-20847,3707,-185,7,Groceries,Snacks,M-Pesa
+K-20847,5294,-193,3,Clothing,Sportswear,Bank Transfer
+K-54321,4799,1704,8,Groceries,Snacks,Bank Transfer
+K-54321,29364,-6475,7,Electronics,Appliances,Airtel Money
+K-19804,16052,-4558,2,Furniture,Bedroom,Airtel Money
+K-19804,18939,-489,8,Clothing,Traditional Wear,Cash on Delivery
+K-93411,1871,-84,1,Clothing,Casual Wear,M-Pesa
+K-93411,6603,1990,8,Beauty,Skincare,Credit Card
+K-93411,7370,-1348,8,Beauty,Makeup,Credit Card
+K-93411,4505,-896,1,Electronics,Mobile Phones,Credit Card
+K-90101,28311,3521,6,Electronics,Laptops,Bank Transfer
+K-90101,40276,12684,9,Electronics,Accessories,Airtel Money
+K-90101,8214,452,8,Beauty,Haircare,Credit Card
+K-90101,22618,5033,5,Electronics,Laptops,M-Pesa
+K-90101,4383,1307,5,Beauty,Makeup,Bank Transfer
+K-52840,10914,740,6,Clothing,Casual Wear,Cash on Delivery
+K-52840,8221,2363,7,Beauty,Personal Care,Bank Transfer
+K-52840,18718,1973,2,Furniture,Living Room,M-Pesa
+K-52840,4908,1145,9,Groceries,Beverages,Cash on Delivery
+K-20548,42655,12096,5,Furniture,Bedroom,Airtel Money
+K-20548,50798,19029,9,Electronics,Mobile Phones,M-Pesa
+K-18658,13636,-1862,8,Clothing,Casual Wear,Credit Card
+K-18658,65336,-13212,7,Furniture,Kitchen,M-Pesa
+K-18658,49376,5608,6,Furniture,Living Room,Credit Card
+K-18658,3421,-281,2,Clothing,Accessories,Bank Transfer
+K-18658,6732,-1693,8,Beauty,Personal Care,Bank Transfer
+K-54397,12177,3444,7,Clothing,Sportswear,Credit Card
+K-54397,47206,-5084,9,Electronics,Accessories,M-Pesa
+K-54397,4732,-492,9,Groceries,Beverages,Bank Transfer
+K-54397,2204,-191,5,Groceries,Cereals,M-Pesa
+K-25836,2316,-523,5,Groceries,Fresh Produce,Airtel Money
+K-33740,4479,-951,5,Beauty,Makeup,Cash on Delivery
+K-33740,539,79,1,Groceries,Beverages,Bank Transfer
+K-52253,28199,-6641,7,Electronics,Accessories,M-Pesa
+K-85711,63288,16114,8,Furniture,Bedroom,M-Pesa
+K-85711,4377,1574,10,Groceries,Fresh Produce,Cash on Delivery
+K-85711,13247,-1167,6,Clothing,Sportswear,M-Pesa
+K-89585,20567,1935,5,Electronics,Accessories,Airtel Money
+K-89585,4108,-1222,5,Beauty,Makeup,Cash on Delivery
+K-50485,1754,207,4,Groceries,Snacks,M-Pesa
+K-50485,9932,-2032,9,Beauty,Haircare,Credit Card
+K-50485,9204,2417,9,Beauty,Makeup,Bank Transfer
+K-50485,14634,-3318,9,Clothing,Sportswear,Airtel Money
+K-50485,76432,-334,9,Furniture,Bedroom,Airtel Money
+K-72219,19941,-2325,4,Electronics,Appliances,M-Pesa
+K-72219,7159,1811,8,Beauty,Personal Care,M-Pesa
+K-72219,5362,-303,1,Electronics,Accessories,Credit Card
+K-72219,6591,-159,1,Furniture,Office,Credit Card
+K-72219,42496,12239,6,Furniture,Outdoor,Airtel Money
+K-66423,5533,1273,10,Groceries,Cereals,Credit Card
+K-66423,52799,-12980,9,Electronics,Mobile Phones,Airtel Money
+K-27440,2077,-519,4,Groceries,Beverages,Airtel Money
+K-75207,2586,-286,5,Groceries,Cereals,Cash on Delivery
+K-75207,9092,-1567,1,Furniture,Kitchen,Credit Card
+K-75207,8215,-1142,2,Electronics,Accessories,Credit Card
+K-75207,2946,-78,6,Groceries,Household,Credit Card
+K-83266,7058,2445,6,Beauty,Skincare,Cash on Delivery
+K-83266,15093,431,3,Electronics,Appliances,Cash on Delivery
+K-83266,4195,-1059,8,Groceries,Household,Credit Card
+K-83266,2871,-585,3,Beauty,Fragrances,Airtel Money
+K-83266,33477,-8612,7,Electronics,TVs,Bank Transfer
+K-45402,28693,2081,3,Furniture,Kitchen,Cash on Delivery
+K-45402,8850,2615,1,Furniture,Kitchen,M-Pesa
+K-12460,9607,1292,10,Beauty,Fragrances,M-Pesa
+K-12460,6738,401,8,Beauty,Personal Care,Credit Card
+K-12460,857,27,2,Groceries,Beverages,Credit Card
+K-12460,2001,-208,4,Groceries,Snacks,Credit Card
+K-66596,52555,-15594,6,Furniture,Office,Airtel Money
+K-66596,31338,-4239,6,Electronics,Accessories,Airtel Money
+K-70677,29764,5482,5,Electronics,Mobile Phones,Airtel Money
+K-70677,2402,-712,6,Groceries,Cereals,Bank Transfer
+K-70677,2451,45,6,Groceries,Fresh Produce,M-Pesa
+K-70677,44945,5610,6,Furniture,Office,Cash on Delivery
+K-70677,11522,417,5,Clothing,Casual Wear,Airtel Money
+K-11776,898,9,2,Groceries,Cereals,Bank Transfer
+K-11776,492,-115,1,Groceries,Snacks,M-Pesa
+K-11776,16889,5162,8,Clothing,Formal Wear,Credit Card
+K-11776,7707,561,1,Furniture,Outdoor,M-Pesa
+K-11776,5734,-448,10,Groceries,Cereals,Cash on Delivery
+K-32244,38735,11534,8,Electronics,Accessories,Bank Transfer
+K-32244,49127,14270,6,Furniture,Living Room,Airtel Money
+K-32244,32002,-5801,8,Electronics,Accessories,M-Pesa
+K-32244,13267,1589,3,Electronics,Mobile Phones,Cash on Delivery
+K-52103,94416,-17235,10,Furniture,Bedroom,Credit Card
+K-52103,3457,828,7,Groceries,Fresh Produce,Credit Card
+K-52103,13715,-193,6,Clothing,Formal Wear,Credit Card
+K-69389,34499,-9474,5,Furniture,Office,Bank Transfer
+K-69389,41712,5440,5,Furniture,Living Room,M-Pesa
+K-69389,6038,1736,7,Beauty,Haircare,Credit Card
+K-53699,17275,277,2,Furniture,Bedroom,Credit Card
+K-53699,8025,1992,10,Beauty,Fragrances,Credit Card
+K-53699,6505,2212,1,Furniture,Bedroom,Cash on Delivery
+K-81418,7671,2561,8,Beauty,Haircare,Airtel Money
+K-81418,8238,-1307,9,Beauty,Skincare,M-Pesa
+K-81418,2177,75,1,Clothing,Formal Wear,Airtel Money
+K-81418,4041,1126,9,Groceries,Fresh Produce,M-Pesa
+K-81418,10428,-2114,5,Clothing,Traditional Wear,Cash on Delivery
+K-42842,44039,-5498,9,Electronics,Laptops,M-Pesa
+K-42842,54968,576,8,Furniture,Office,Credit Card
+K-42842,7288,-474,7,Beauty,Haircare,Bank Transfer
+K-42842,11135,2699,6,Clothing,Casual Wear,Cash on Delivery
+K-42842,439,-19,1,Groceries,Fresh Produce,Cash on Delivery
+K-42479,4019,1076,7,Groceries,Household,Bank Transfer
+K-42479,3938,260,7,Groceries,Cereals,Airtel Money
+K-42479,26593,8928,3,Furniture,Kitchen,M-Pesa
+K-94050,7389,-32,7,Beauty,Fragrances,Cash on Delivery
+K-94050,86567,2725,10,Furniture,Living Room,M-Pesa
+K-26128,12528,-2557,6,Clothing,Sportswear,Cash on Delivery
+K-26128,75969,27345,10,Furniture,Living Room,Cash on Delivery
+K-26128,4646,-424,2,Clothing,Casual Wear,Bank Transfer
+K-90971,3471,-518,7,Groceries,Household,Credit Card
+K-90971,2912,-46,3,Beauty,Makeup,Airtel Money
+K-90971,11942,-3552,7,Clothing,Accessories,Credit Card
+K-90971,6899,544,7,Beauty,Skincare,Cash on Delivery
+K-99091,12075,1369,6,Clothing,Accessories,M-Pesa
+K-99091,4228,762,5,Beauty,Skincare,Airtel Money
+K-99091,42514,1705,5,Furniture,Office,Cash on Delivery
+K-99091,16463,3876,9,Clothing,Formal Wear,Cash on Delivery
+K-99091,50437,-11738,10,Electronics,Laptops,Cash on Delivery
+K-78544,979,-122,1,Beauty,Skincare,Airtel Money
+K-23052,15510,1371,3,Electronics,Mobile Phones,M-Pesa
+K-23052,6314,763,6,Beauty,Haircare,Cash on Delivery
+K-23052,4016,-901,5,Beauty,Fragrances,Airtel Money
+K-23052,33943,-6636,8,Electronics,Laptops,Bank Transfer
+K-31204,4180,-664,2,Clothing,Sportswear,Credit Card
+K-31204,2207,-429,1,Clothing,Casual Wear,Bank Transfer
+K-31204,949,326,2,Groceries,Snacks,Bank Transfer
+K-31204,78452,25836,9,Furniture,Office,Cash on Delivery
+K-26632,841,-252,1,Beauty,Personal Care,Cash on Delivery
+K-74068,61690,831,9,Furniture,Outdoor,Airtel Money
+K-74068,4287,591,9,Groceries,Cereals,M-Pesa
+K-74068,24106,-3252,5,Electronics,TVs,Credit Card
+K-74068,18542,-1359,9,Clothing,Sportswear,Bank Transfer
+K-35736,17441,3886,8,Clothing,Formal Wear,Airtel Money
+K-35736,15622,-1768,9,Clothing,Formal Wear,Credit Card
+K-35736,6623,1061,7,Beauty,Makeup,Bank Transfer
+K-35736,9031,780,9,Beauty,Haircare,M-Pesa
+K-35736,1060,261,1,Beauty,Fragrances,Bank Transfer
+K-17365,38146,-3042,9,Electronics,Appliances,Bank Transfer
+K-39086,50040,11074,10,Electronics,TVs,M-Pesa
+K-20312,2568,-237,6,Groceries,Household,M-Pesa
+K-20312,421,60,1,Groceries,Snacks,Cash on Delivery
+K-20312,47443,-11488,5,Furniture,Kitchen,Bank Transfer
+K-46834,57536,-14849,8,Furniture,Outdoor,Credit Card
+K-46834,38928,14076,7,Electronics,Laptops,Credit Card
+K-48821,5635,-102,5,Beauty,Fragrances,Cash on Delivery
+K-13435,4114,1120,1,Electronics,Accessories,M-Pesa
+K-48492,11528,689,10,Beauty,Haircare,M-Pesa
+K-80624,17324,-3957,9,Clothing,Casual Wear,Cash on Delivery
+K-80624,6474,407,4,Clothing,Traditional Wear,Airtel Money
+K-61349,12250,-443,6,Clothing,Traditional Wear,Cash on Delivery
+K-45289,23822,-186,4,Electronics,Mobile Phones,Airtel Money
+K-45289,47585,10546,10,Electronics,Appliances,Cash on Delivery
+K-44590,16551,4645,2,Furniture,Office,Credit Card
+K-44590,9163,-911,8,Beauty,Haircare,Airtel Money
+K-44590,10137,2444,5,Clothing,Traditional Wear,Bank Transfer
+K-44590,41833,2616,7,Electronics,Mobile Phones,Credit Card
+K-44590,2828,353,5,Groceries,Household,Cash on Delivery
+K-77650,45626,3770,10,Electronics,Accessories,Credit Card
+K-77650,1590,-273,3,Groceries,Cereals,Credit Card
+K-77650,10083,3670,9,Beauty,Haircare,Credit Card
+K-77650,13271,-2793,6,Clothing,Traditional Wear,Airtel Money
+K-13103,17210,-2558,3,Electronics,Accessories,Cash on Delivery
+K-13103,2196,476,2,Beauty,Skincare,Credit Card
+K-40742,31892,7811,6,Electronics,Appliances,Cash on Delivery
+K-40742,487,-16,1,Groceries,Beverages,M-Pesa
+K-93925,6434,-685,3,Clothing,Sportswear,M-Pesa
+K-93925,2002,762,2,Beauty,Skincare,Airtel Money
+K-93925,36991,-971,4,Furniture,Office,M-Pesa
+K-93925,56735,9400,10,Electronics,Mobile Phones,Cash on Delivery
+K-11138,73386,2649,9,Furniture,Outdoor,Airtel Money
+K-11138,6941,29,7,Beauty,Fragrances,Bank Transfer
+K-11138,25907,3518,4,Furniture,Office,M-Pesa
+K-11138,77694,25952,10,Furniture,Outdoor,Credit Card
+K-14389,7483,597,7,Beauty,Fragrances,Airtel Money
+K-14389,25359,-2008,5,Electronics,Laptops,M-Pesa
+K-14389,7556,-600,9,Beauty,Personal Care,Airtel Money
+K-14389,16462,2413,8,Clothing,Accessories,Airtel Money
+K-14389,43588,2025,6,Furniture,Living Room,Cash on Delivery
+K-84405,58343,14628,7,Furniture,Office,Credit Card
+K-84405,76971,9232,10,Furniture,Outdoor,Bank Transfer
+K-84405,13585,-1148,3,Electronics,Laptops,Cash on Delivery
+K-84405,14522,2373,9,Clothing,Casual Wear,M-Pesa
+K-84405,998,350,2,Groceries,Beverages,M-Pesa
+K-84448,7767,-1842,4,Clothing,Casual Wear,Credit Card
+K-84448,36919,5119,8,Electronics,Mobile Phones,Cash on Delivery
+K-84448,18000,-201,8,Clothing,Casual Wear,Bank Transfer
+K-89429,11448,4499,7,Clothing,Formal Wear,Cash on Delivery
+K-89429,3627,1360,2,Clothing,Accessories,Cash on Delivery
+K-89429,1524,-423,3,Groceries,Beverages,M-Pesa
+K-89429,3310,-333,2,Clothing,Formal Wear,Cash on Delivery
+K-89429,90638,1376,10,Furniture,Kitchen,Bank Transfer
+K-18544,1905,123,1,Clothing,Accessories,M-Pesa
+K-34903,44722,-3815,10,Electronics,Appliances,Bank Transfer
+K-34903,4110,1185,9,Groceries,Household,Bank Transfer
+K-34903,5618,-347,1,Electronics,TVs,Airtel Money
+K-34903,8391,-1864,8,Beauty,Personal Care,Credit Card
+K-29835,1824,598,2,Beauty,Personal Care,Cash on Delivery
+K-29835,6348,-1489,7,Beauty,Makeup,M-Pesa
+K-29835,45830,-676,5,Furniture,Kitchen,M-Pesa
+K-90006,2242,707,5,Groceries,Cereals,Cash on Delivery
+K-90006,23818,3538,5,Electronics,TVs,Airtel Money
+K-90006,19006,4078,9,Clothing,Traditional Wear,Bank Transfer
+K-90006,9018,2580,10,Beauty,Skincare,Credit Card
+K-90006,48420,-9964,9,Electronics,Mobile Phones,Airtel Money
+K-40624,27390,-7596,3,Furniture,Outdoor,Credit Card
+K-40624,4598,1615,2,Clothing,Formal Wear,Airtel Money
+K-40624,1291,-386,3,Groceries,Fresh Produce,Cash on Delivery
+K-40624,1143,332,1,Beauty,Makeup,Cash on Delivery
+K-19495,2561,-364,6,Groceries,Household,Cash on Delivery
+K-19495,31585,11747,7,Electronics,Mobile Phones,M-Pesa
+K-19495,3864,981,4,Beauty,Haircare,Airtel Money
+K-72328,563,-124,1,Groceries,Snacks,Bank Transfer
+K-84800,62554,-10773,9,Furniture,Outdoor,Cash on Delivery
+K-50825,60268,17831,9,Furniture,Bedroom,Credit Card
+K-50825,15696,-1616,7,Clothing,Casual Wear,Bank Transfer
+K-50825,4102,317,8,Groceries,Household,Airtel Money
+K-40418,3842,-242,8,Groceries,Cereals,Airtel Money
+K-40418,2833,-795,7,Groceries,Household,Airtel Money
+K-40418,2419,-468,6,Groceries,Household,Credit Card
+K-40418,4783,-769,9,Groceries,Snacks,Cash on Delivery
+K-66217,21082,7750,10,Clothing,Formal Wear,Bank Transfer
+K-66217,10279,2456,6,Clothing,Sportswear,Airtel Money
+K-66217,1422,509,3,Groceries,Snacks,Airtel Money
+K-66217,31623,7746,4,Furniture,Living Room,Credit Card
+K-66217,1792,-232,1,Clothing,Traditional Wear,Airtel Money
+K-81324,2086,-523,4,Groceries,Cereals,Cash on Delivery
+K-81324,74835,-15682,9,Furniture,Outdoor,Airtel Money
+K-81324,12401,664,3,Electronics,Mobile Phones,Airtel Money
+K-81324,5654,1077,5,Beauty,Personal Care,Cash on Delivery
+K-81324,33784,-9398,6,Electronics,Appliances,Airtel Money
+K-95237,2257,92,2,Beauty,Fragrances,M-Pesa
+K-95237,4582,1230,4,Beauty,Personal Care,Airtel Money
+K-95237,78282,-21076,10,Furniture,Bedroom,Cash on Delivery
+K-95237,3131,570,3,Beauty,Haircare,Airtel Money
+K-95237,35343,-235,4,Furniture,Living Room,Airtel Money
+K-36319,4217,1568,10,Groceries,Household,Bank Transfer
+K-36319,4475,-367,5,Beauty,Personal Care,M-Pesa
+K-36319,4138,-92,10,Groceries,Snacks,Cash on Delivery
+K-36319,7600,1630,9,Beauty,Skincare,Bank Transfer
+K-20464,66123,12164,10,Furniture,Outdoor,Cash on Delivery
+K-20464,5263,1537,9,Groceries,Beverages,M-Pesa
+K-20464,37243,-4774,8,Electronics,Accessories,Airtel Money
+K-20464,9295,-1482,8,Beauty,Skincare,Bank Transfer
+K-20464,34405,-6398,7,Electronics,Accessories,Credit Card
+K-19776,19498,-1417,4,Electronics,Mobile Phones,Cash on Delivery
+K-19776,12662,3617,6,Clothing,Sportswear,Airtel Money
+K-19776,11584,4313,2,Electronics,Accessories,Credit Card
+K-19776,4459,1228,2,Clothing,Traditional Wear,Cash on Delivery
+K-39322,2152,-148,4,Groceries,Snacks,Bank Transfer
+K-39322,11050,1555,6,Clothing,Accessories,Bank Transfer
+K-39322,41105,-1715,7,Electronics,Accessories,Cash on Delivery
+K-10353,91666,15879,10,Furniture,Bedroom,Credit Card
+K-10353,9942,-186,5,Clothing,Traditional Wear,Airtel Money
+K-10353,942,129,1,Beauty,Makeup,Airtel Money
+K-10353,25003,4182,3,Furniture,Kitchen,Bank Transfer
+K-10353,4960,799,3,Clothing,Formal Wear,Cash on Delivery
+K-65768,10265,68,5,Clothing,Formal Wear,Airtel Money
+K-65768,5524,567,5,Beauty,Personal Care,Bank Transfer
+K-49229,25938,6416,5,Electronics,Mobile Phones,Cash on Delivery
+K-49229,17352,-4070,8,Clothing,Formal Wear,Credit Card
+K-96995,6950,-1165,3,Clothing,Casual Wear,M-Pesa
+K-96995,16300,-4631,8,Clothing,Accessories,Cash on Delivery
+K-96995,40684,-5462,10,Electronics,Accessories,M-Pesa
+K-96995,2151,-504,4,Groceries,Snacks,Airtel Money
+K-75384,7100,-450,3,Clothing,Traditional Wear,Cash on Delivery
+K-75384,11695,3808,5,Clothing,Formal Wear,Airtel Money
+K-17305,6731,-253,8,Beauty,Personal Care,Bank Transfer
+K-17305,7586,-1578,1,Furniture,Living Room,Airtel Money
+K-54595,4639,-1231,10,Groceries,Cereals,Airtel Money
+K-37285,7963,1657,7,Beauty,Personal Care,Airtel Money
+K-37285,4968,936,5,Beauty,Makeup,Cash on Delivery
+K-37285,41236,10364,9,Electronics,Laptops,Bank Transfer
+K-37285,3910,105,9,Groceries,Household,Airtel Money
+K-37285,5251,531,9,Groceries,Cereals,Credit Card
+K-82318,17017,-4664,3,Electronics,Accessories,Cash on Delivery
+K-82318,3895,541,2,Clothing,Accessories,Cash on Delivery
+K-82318,1048,-175,1,Beauty,Makeup,Bank Transfer
+K-82318,69349,15230,9,Furniture,Living Room,Bank Transfer
+K-72906,4746,-1393,5,Beauty,Fragrances,Airtel Money
+K-72906,34975,12602,4,Furniture,Outdoor,M-Pesa
+K-38527,1819,27,2,Beauty,Makeup,Bank Transfer
+K-38527,8730,432,1,Furniture,Living Room,Airtel Money
+K-38527,18514,4987,9,Clothing,Sportswear,Credit Card
+K-38527,5265,-184,9,Groceries,Snacks,M-Pesa
+K-38527,514,-91,1,Groceries,Snacks,M-Pesa
+K-70229,60050,-6808,7,Furniture,Office,Credit Card
+K-70229,28862,-3313,5,Electronics,Mobile Phones,Airtel Money
+K-78788,5686,1582,10,Groceries,Fresh Produce,M-Pesa
+K-48692,21548,-3273,9,Clothing,Sportswear,M-Pesa
+K-48692,44048,3463,5,Furniture,Living Room,Bank Transfer
+K-48692,51951,8198,9,Electronics,Accessories,Bank Transfer
+K-72317,23156,7021,5,Electronics,Accessories,Airtel Money
+K-72317,47115,-6032,5,Furniture,Kitchen,M-Pesa
+K-60109,9272,-2208,4,Clothing,Traditional Wear,Cash on Delivery
+K-60109,5630,2223,7,Beauty,Personal Care,Bank Transfer
+K-83116,27731,-2025,4,Furniture,Office,Bank Transfer
+K-83116,34601,-4968,7,Electronics,Accessories,Bank Transfer
+K-83116,54652,-1056,6,Furniture,Living Room,Cash on Delivery
+K-83116,1935,459,2,Beauty,Makeup,Cash on Delivery
+K-50498,21853,4050,5,Electronics,Mobile Phones,Credit Card
+K-50498,1741,421,3,Groceries,Fresh Produce,Credit Card
+K-86672,5105,1125,9,Groceries,Fresh Produce,Credit Card
+K-86672,34457,-5550,6,Electronics,Appliances,Airtel Money
+K-86672,13750,-133,7,Clothing,Traditional Wear,M-Pesa
+K-86672,16688,-3178,2,Furniture,Bedroom,Bank Transfer
+K-86672,20112,2268,10,Clothing,Casual Wear,Airtel Money
+K-96734,3250,-672,8,Groceries,Beverages,Bank Transfer
+K-96734,95145,-20314,10,Furniture,Kitchen,Bank Transfer
+K-18374,17734,-743,2,Furniture,Kitchen,Airtel Money
+K-18374,40024,15420,9,Electronics,Mobile Phones,Cash on Delivery
+K-49664,4750,454,10,Groceries,Fresh Produce,Airtel Money
+K-49664,18256,-391,2,Furniture,Office,Credit Card
+K-49664,53265,12094,6,Furniture,Outdoor,Bank Transfer
+K-49664,3598,81,2,Clothing,Traditional Wear,Airtel Money
+K-73293,53301,1393,8,Furniture,Office,Cash on Delivery
+K-20047,15060,-702,3,Electronics,Mobile Phones,Credit Card
+K-20047,2716,-659,3,Beauty,Personal Care,Credit Card
+K-57696,980,-184,2,Groceries,Cereals,Airtel Money
+K-57696,42580,9836,9,Electronics,TVs,Cash on Delivery
+K-57696,59478,15779,10,Electronics,Mobile Phones,M-Pesa
+K-57696,1975,-227,1,Clothing,Casual Wear,M-Pesa
+K-57696,83472,-23017,9,Furniture,Office,Airtel Money
+K-40445,20577,1671,3,Furniture,Living Room,Bank Transfer
+K-40445,64769,-2432,8,Furniture,Kitchen,M-Pesa
+K-36025,32282,12119,8,Electronics,Laptops,M-Pesa
+K-36025,40855,3463,8,Electronics,Laptops,Cash on Delivery
+K-54479,7099,914,4,Clothing,Accessories,Airtel Money
+K-54479,4052,-1014,2,Clothing,Accessories,M-Pesa
+K-54479,14701,3607,2,Furniture,Bedroom,Bank Transfer
+K-20077,60021,18015,9,Furniture,Bedroom,Credit Card
+K-20077,36965,11362,8,Electronics,TVs,Bank Transfer
+K-16194,65475,-5213,10,Furniture,Kitchen,Bank Transfer
+K-16194,1130,-304,1,Beauty,Personal Care,Credit Card
+K-95883,13584,3011,7,Clothing,Sportswear,M-Pesa
+K-95883,14007,-2962,3,Electronics,Appliances,Cash on Delivery
+K-72920,1935,-534,1,Clothing,Traditional Wear,Bank Transfer
+K-44225,18881,468,10,Clothing,Formal Wear,M-Pesa
+K-51277,64333,-1724,9,Furniture,Bedroom,Credit Card
+K-86718,56093,14709,8,Furniture,Bedroom,Cash on Delivery
+K-89297,437,30,1,Groceries,Fresh Produce,Credit Card
+K-89297,4350,-391,2,Clothing,Casual Wear,Cash on Delivery
+K-44193,1983,-472,2,Beauty,Haircare,Bank Transfer
+K-44193,6042,1306,7,Beauty,Makeup,Credit Card
+K-60010,1778,489,3,Groceries,Beverages,M-Pesa
+K-60010,10752,-2047,2,Electronics,Mobile Phones,Cash on Delivery
+K-60010,6616,828,7,Beauty,Personal Care,Cash on Delivery
+K-60010,9130,1758,8,Beauty,Fragrances,M-Pesa
+K-60010,22962,542,4,Electronics,TVs,Credit Card
+K-56627,6786,1623,3,Clothing,Traditional Wear,Credit Card
+K-56627,38443,3826,5,Furniture,Kitchen,Credit Card
+K-56627,3186,718,7,Groceries,Fresh Produce,Credit Card
+K-56627,25167,880,3,Furniture,Living Room,Bank Transfer
+K-56627,51492,16399,9,Electronics,Mobile Phones,Bank Transfer
+K-71002,2388,535,2,Beauty,Personal Care,Cash on Delivery
+K-71002,7279,-627,9,Beauty,Skincare,Cash on Delivery
+K-27690,41856,4210,5,Furniture,Kitchen,Credit Card
+K-27690,5179,163,10,Groceries,Cereals,Cash on Delivery
+K-66873,903,322,2,Groceries,Beverages,Cash on Delivery
+K-66873,3569,271,6,Groceries,Fresh Produce,M-Pesa
+K-66873,26163,-1650,4,Furniture,Kitchen,Bank Transfer
+K-65707,4949,-273,9,Groceries,Beverages,Credit Card
+K-38538,16588,4418,9,Clothing,Formal Wear,Airtel Money
+K-38538,3578,924,7,Groceries,Fresh Produce,Credit Card
+K-86319,54544,4868,6,Furniture,Office,Bank Transfer
+K-86319,51638,682,7,Furniture,Living Room,Credit Card
+K-19046,7427,2891,8,Beauty,Fragrances,M-Pesa
+K-19046,29839,-2489,6,Electronics,Accessories,Credit Card
+K-19046,6702,387,6,Beauty,Skincare,Bank Transfer
+K-54331,7172,-16,6,Beauty,Makeup,Cash on Delivery
+K-40909,5772,495,3,Clothing,Formal Wear,Cash on Delivery
+K-40909,45633,-7395,8,Electronics,TVs,Bank Transfer
+K-73071,1664,-77,4,Groceries,Cereals,Bank Transfer
+K-33263,11239,4444,5,Clothing,Sportswear,Bank Transfer
+K-33263,4870,-1398,3,Clothing,Traditional Wear,Bank Transfer
+K-33263,10538,-2828,9,Beauty,Makeup,Bank Transfer
+K-33263,12075,-3418,7,Clothing,Traditional Wear,Airtel Money
+K-33263,9880,-1647,6,Clothing,Traditional Wear,M-Pesa
+K-19997,20024,243,10,Clothing,Traditional Wear,Airtel Money
+K-19997,7704,-1840,8,Beauty,Fragrances,Cash on Delivery
+K-19997,3695,280,8,Groceries,Cereals,M-Pesa
+K-19997,5112,566,6,Beauty,Personal Care,Cash on Delivery
+K-93895,1772,-228,1,Clothing,Casual Wear,Cash on Delivery
+K-93895,19045,-4429,4,Electronics,Mobile Phones,Credit Card
+K-31365,1014,215,1,Beauty,Fragrances,Bank Transfer
+K-31365,2343,-24,5,Groceries,Fresh Produce,M-Pesa
+K-31365,4274,1450,10,Groceries,Beverages,Airtel Money
+K-31365,11380,-2394,10,Beauty,Personal Care,Credit Card
+K-55642,5667,2095,10,Groceries,Snacks,M-Pesa
+K-55642,35145,3880,7,Electronics,Mobile Phones,M-Pesa
+K-55642,7280,-2109,4,Clothing,Traditional Wear,Cash on Delivery
+K-55642,29752,7826,7,Electronics,Appliances,Airtel Money
+K-55642,2431,617,5,Groceries,Cereals,Bank Transfer
+K-34186,3805,1300,9,Groceries,Cereals,Credit Card
+K-34186,62873,17583,9,Furniture,Outdoor,M-Pesa
+K-34186,13657,1436,8,Clothing,Formal Wear,Airtel Money
+K-40013,54160,12406,10,Electronics,Mobile Phones,Airtel Money
+NA,4556,-1033,10,Groceries,Beverages,Cash on Delivery
+NA,10584,3273,5,Clothing,Formal Wear,Airtel Money
+NA,34253,-3053,6,Electronics,TVs,M-Pesa
+NA,13969,126,3,Electronics,Laptops,Airtel Money
+NA,471,-74,1,Groceries,Cereals,M-Pesa
+NA,4859,-142,6,Beauty,Haircare,Airtel Money
+NA,2050,260,1,Clothing,Casual Wear,Cash on Delivery
+NA,5127,1498,10,Groceries,Fresh Produce,M-Pesa
+NA,865,279,1,Beauty,Fragrances,Airtel Money
+NA,26649,-3344,5,Electronics,Appliances,Credit Card
+NA,83787,8141,10,Furniture,Office,Cash on Delivery
+NA,34410,9284,4,Furniture,Outdoor,Bank Transfer
+NA,24846,-2143,6,Electronics,Mobile Phones,Cash on Delivery
+NA,1141,-173,2,Groceries,Snacks,Bank Transfer
+NA,1506,177,3,Groceries,Cereals,M-Pesa
+NA,30886,-3244,7,Electronics,TVs,Bank Transfer
+NA,5807,-75,5,Beauty,Fragrances,Cash on Delivery
+NA,71365,-9313,10,Furniture,Bedroom,Airtel Money
+NA,30522,322,7,Electronics,TVs,Credit Card
+NA,2521,675,3,Beauty,Skincare,Bank Transfer
+NA,82667,21845,10,Furniture,Office,Credit Card
+NA,15705,523,7,Clothing,Casual Wear,Bank Transfer
+NA,12136,4537,3,Electronics,Accessories,M-Pesa
+NA,4646,898,10,Groceries,Fresh Produce,Cash on Delivery
+NA,15167,-208,7,Clothing,Casual Wear,Bank Transfer
+NA,14160,5577,2,Furniture,Living Room,M-Pesa
+NA,2209,-212,2,Beauty,Fragrances,Credit Card
+NA,496,-93,1,Groceries,Household,M-Pesa
+NA,1138,245,1,Beauty,Skincare,Airtel Money
+NA,77577,26023,10,Furniture,Office,Bank Transfer
+NA,21620,-225,10,Clothing,Accessories,Airtel Money
+NA,21721,4638,3,Furniture,Kitchen,M-Pesa
+NA,4771,-1061,4,Beauty,Fragrances,Credit Card
+NA,8331,452,7,Beauty,Haircare,M-Pesa
+NA,4152,-951,2,Clothing,Accessories,Bank Transfer
+NA,13377,-2901,3,Electronics,Laptops,Airtel Money
+NA,4963,-1036,1,Electronics,TVs,Airtel Money
+NA,5746,2289,10,Groceries,Household,Airtel Money
+NA,2796,858,6,Groceries,Cereals,M-Pesa
+NA,7632,-2030,7,Beauty,Makeup,Airtel Money
+NA,1483,185,3,Groceries,Household,Credit Card
+NA,21350,-3084,9,Clothing,Sportswear,Credit Card
+NA,43171,454,8,Electronics,TVs,M-Pesa
+NA,8140,2515,1,Furniture,Outdoor,M-Pesa
+NA,4350,1264,8,Groceries,Snacks,Airtel Money
+NA,4006,-1033,8,Groceries,Fresh Produce,Bank Transfer
+NA,19248,614,10,Clothing,Casual Wear,Cash on Delivery
+NA,31764,5370,7,Electronics,Accessories,Bank Transfer
+NA,12068,3763,3,Electronics,TVs,Bank Transfer
+NA,21147,-5477,5,Electronics,Laptops,Airtel Money
+NA,4031,-211,4,Beauty,Makeup,Bank Transfer
+NA,1429,246,3,Groceries,Snacks,Bank Transfer
+NA,15333,19,7,Clothing,Traditional Wear,M-Pesa
+NA,18212,7097,4,Electronics,Laptops,Cash on Delivery

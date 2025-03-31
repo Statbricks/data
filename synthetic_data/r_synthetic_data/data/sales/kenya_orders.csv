@@ -1,0 +1,501 @@
+Order ID,Order Date,CustomerName,State,City
+K-12607,"Saturday, 18 May 2024",Adhiambo,Kisumu,Mamboleo
+K-45360,"Friday, 05 July 2024",Kipchoge,Kajiado,Kiserian
+K-94129,"Monday, 25 September 2023",Mutuku,Nairobi,Karen
+K-86351,"Friday, 06 September 2024",Gitonga,Kilifi,Mariakani
+K-11516,"Wednesday, 11 October 2023",Ruto,Uasin Gishu,Moiben
+K-31927,"Wednesday, 26 July 2023",Njoroge,Kilifi,Watamu
+K-45810,"Tuesday, 23 January 2024",Mutiso,Kisumu,Milimani
+K-22181,"Tuesday, 14 November 2023",Akinyi,Kisumu,Milimani
+K-75983,"Wednesday, 29 November 2023",Mwangi,Uasin Gishu,Ziwa
+K-37437,"Thursday, 13 April 2023",Wanyama,Kilifi,Mariakani
+K-65524,"Sunday, 07 April 2024",Karanja,Kilifi,Malindi
+K-52424,"Thursday, 23 January 2025",Kibet,Kisumu,Milimani
+K-21286,"Thursday, 21 November 2024",Ndegwa,Kiambu,Thika
+K-31127,"Friday, 22 November 2024",Kavita,Machakos,Athi River
+K-75022,"Saturday, 08 March 2025",Wanjiku,Mombasa,Nyali
+K-13235,"Thursday, 29 June 2023",Kosgei,Uasin Gishu,Turbo
+K-31058,"Tuesday, 12 March 2024",Kipkorir,Kajiado,Kajiado Town
+K-62128,"Tuesday, 07 January 2025",Otieno,Kiambu,Kikuyu
+K-93739,"Tuesday, 19 March 2024",Mutuku,Kisumu,Mamboleo
+K-85984,"Tuesday, 25 April 2023",Kibet,Nyeri,Karatina
+K-46532,"Friday, 30 August 2024",Kibet,Kiambu,Limuru
+K-12405,"Wednesday, 29 May 2024",Kiprop,Nakuru,Naka
+K-43671,"Tuesday, 07 January 2025",Wangari,Nakuru,Naka
+K-47711,"Friday, 27 October 2023",Mutiso,Machakos,Matuu
+K-85085,"Saturday, 09 November 2024",Kosgei,Nairobi,Westlands
+K-54295,"Tuesday, 12 November 2024",Otieno,Mombasa,Bamburi
+K-18392,"Saturday, 05 October 2024",Auma,Kiambu,Kiambu Town
+K-97264,"Saturday, 06 April 2024",Cherotich,Kisumu,Kondele
+K-51639,"Sunday, 20 August 2023",Akinyi,Machakos,Athi River
+K-92496,"Tuesday, 24 September 2024",Naliaka,Kajiado,Kiserian
+K-11014,"Thursday, 01 August 2024",Wambui,Kiambu,Kiambu Town
+K-63196,"Tuesday, 10 December 2024",Mohammed,Machakos,Kathiani
+K-23331,"Saturday, 22 April 2023",Mohammed,Kisumu,Kondele
+K-94091,"Friday, 02 February 2024",Nyawira,Uasin Gishu,Turbo
+K-89916,"Saturday, 12 August 2023",Kariuki,Kajiado,Ngong
+K-16796,"Thursday, 09 November 2023",Maina,Nyeri,Othaya
+K-99225,"Tuesday, 12 September 2023",Cherotich,Uasin Gishu,Turbo
+K-17947,"Thursday, 02 November 2023",Nyawira,Nyeri,Naro Moru
+K-92758,"Sunday, 14 January 2024",Karanja,Kajiado,Ngong
+K-42014,"Thursday, 31 October 2024",Kosgei,Nyeri,Othaya
+K-59072,"Saturday, 10 June 2023",Chepkoech,Uasin Gishu,Eldoret
+K-13238,"Thursday, 07 November 2024",Wanyama,Kisumu,Nyalenda
+K-33806,"Friday, 25 October 2024",Kamau,Machakos,Matuu
+K-60809,"Friday, 18 August 2023",Onyango,Nairobi,Eastleigh
+K-29333,"Friday, 21 March 2025",Ndegwa,Uasin Gishu,Eldoret
+K-48659,"Wednesday, 30 August 2023",Mutiso,Kiambu,Limuru
+K-58706,"Thursday, 18 January 2024",Wanjiku,Mombasa,Mombasa Island
+K-32253,"Monday, 01 January 2024",Adhiambo,Machakos,Kangundo
+K-10269,"Friday, 05 July 2024",Ali,Kisumu,Mamboleo
+K-53680,"Wednesday, 10 May 2023",Kibet,Kisumu,Milimani
+K-94498,"Monday, 03 June 2024",Onyango,Nakuru,Lanet
+K-73073,"Wednesday, 28 June 2023",Naliaka,Nairobi,Karen
+K-50155,"Friday, 09 February 2024",Mutua,Uasin Gishu,Turbo
+K-91017,"Wednesday, 08 November 2023",Onyango,Kiambu,Kikuyu
+K-31380,"Sunday, 08 September 2024",Chepkoech,Mombasa,Bamburi
+K-43058,"Monday, 24 July 2023",Muthoni,Machakos,Kathiani
+K-72182,"Monday, 25 November 2024",Karanja,Nyeri,Nyeri Town
+K-14924,"Friday, 28 June 2024",Chepkoech,Nairobi,Kasarani
+K-37816,"Sunday, 17 November 2024",Wanjiku,Kiambu,Ruiru
+K-52430,"Monday, 08 May 2023",Njoroge,Kiambu,Kikuyu
+K-20308,"Tuesday, 05 September 2023",Wanyama,Kajiado,Kiserian
+K-84753,"Wednesday, 25 October 2023",Kosgei,Kisumu,Mamboleo
+K-10854,"Sunday, 07 April 2024",Naliaka,Nairobi,Kasarani
+K-17031,"Wednesday, 03 May 2023",Kosgei,Nakuru,Nakuru CBD
+K-54260,"Tuesday, 27 August 2024",Mwangi,Kajiado,Kajiado Town
+K-58846,"Wednesday, 12 April 2023",Owino,Mombasa,Shanzu
+K-37576,"Wednesday, 07 June 2023",Otieno,Nakuru,Milimani
+K-92537,"Sunday, 12 May 2024",Mwangi,Kajiado,Ongata Rongai
+K-47070,"Thursday, 01 February 2024",Auma,Kajiado,Kajiado Town
+K-63180,"Tuesday, 02 January 2024",Wafula,Kiambu,Thika
+K-11315,"Tuesday, 27 June 2023",Okoth,Uasin Gishu,Moiben
+K-13334,"Tuesday, 17 September 2024",Omondi,Machakos,Kangundo
+K-53799,"Monday, 15 January 2024",Nyambura,Kilifi,Malindi
+K-63770,"Monday, 27 May 2024",Wanyama,Machakos,Matuu
+K-75791,"Wednesday, 10 January 2024",Mutuku,Nakuru,Naka
+K-66790,"Wednesday, 29 January 2025",Ngugi,Mombasa,Nyali
+K-30567,"Saturday, 29 July 2023",Mutuku,Kajiado,Kitengela
+K-35161,"Tuesday, 18 July 2023",Ali,Kajiado,Kitengela
+K-62978,"Monday, 04 September 2023",Akinyi,Nairobi,Kasarani
+K-99374,"Friday, 02 June 2023",Muthoni,Machakos,Kathiani
+K-32807,"Thursday, 25 July 2024",Chepkoech,Mombasa,Shanzu
+K-84530,"Friday, 19 July 2024",Karanja,Nyeri,Karatina
+K-66997,"Monday, 22 July 2024",Kavita,Uasin Gishu,Eldoret
+K-73955,"Monday, 10 March 2025",Wangari,Nakuru,Nakuru CBD
+K-16089,"Monday, 05 June 2023",Muthoni,Uasin Gishu,Ziwa
+K-36569,"Tuesday, 21 January 2025",Ngugi,Nyeri,Mweiga
+K-46718,"Friday, 23 June 2023",Okoth,Kisumu,Milimani
+K-36866,"Monday, 11 September 2023",Chepkoech,Uasin Gishu,Moiben
+K-43302,"Monday, 06 January 2025",Otieno,Kilifi,Kilifi Town
+K-50846,"Saturday, 20 May 2023",Mutiso,Kajiado,Ngong
+K-59940,"Monday, 12 June 2023",Auma,Kilifi,Malindi
+K-61247,"Sunday, 24 September 2023",Wanjiku,Machakos,Kangundo
+K-63729,"Tuesday, 26 March 2024",Ndungu,Kisumu,Kisumu CBD
+K-94072,"Tuesday, 21 November 2023",Ndegwa,Kajiado,Kajiado Town
+K-72135,"Friday, 29 November 2024",Kipkorir,Nyeri,Mweiga
+K-33043,"Friday, 23 February 2024",Owino,Mombasa,Nyali
+K-40007,"Tuesday, 25 March 2025",Auma,Kajiado,Kitengela
+K-69125,"Friday, 04 August 2023",Mwangi,Kajiado,Ngong
+K-19034,"Saturday, 28 October 2023",Akinyi,Kajiado,Kitengela
+K-88073,"Thursday, 13 February 2025",Kipkorir,Mombasa,Bamburi
+K-81252,"Saturday, 03 February 2024",Auma,Nairobi,Nairobi CBD
+K-52081,"Tuesday, 28 November 2023",Waithaka,Kilifi,Mtwapa
+K-93468,"Friday, 21 July 2023",Wanyama,Kiambu,Ruiru
+K-86033,"Sunday, 08 December 2024",Mwangi,Machakos,Machakos Town
+K-65557,"Friday, 19 July 2024",Kimani,Kisumu,Milimani
+K-60704,"Monday, 28 August 2023",Waithaka,Uasin Gishu,Moiben
+K-79837,"Friday, 24 January 2025",Maina,Kajiado,Ngong
+K-40284,"Tuesday, 03 December 2024",Kipchoge,Kilifi,Mariakani
+K-87669,"Wednesday, 06 September 2023",Okoth,Kisumu,Mamboleo
+K-11257,"Wednesday, 24 April 2024",Nyambura,Nairobi,Nairobi CBD
+K-46678,"Friday, 01 September 2023",Mutua,Kajiado,Kiserian
+K-40699,"Wednesday, 29 May 2024",Mutuku,Machakos,Machakos Town
+K-48375,"Tuesday, 04 April 2023",Karanja,Kiambu,Thika
+K-63165,"Monday, 19 February 2024",Kiprop,Kisumu,Milimani
+K-27616,"Thursday, 04 January 2024",Kimutai,Machakos,Kangundo
+K-25153,"Thursday, 17 October 2024",Okoth,Nakuru,Lanet
+K-50745,"Thursday, 23 November 2023",Kimani,Kilifi,Mtwapa
+K-85316,"Sunday, 03 March 2024",Odhiambo,Kiambu,Limuru
+K-37976,"Monday, 08 May 2023",Kipchoge,Kilifi,Watamu
+K-64610,"Monday, 14 August 2023",Mutuku,Machakos,Athi River
+K-39942,"Thursday, 27 June 2024",Mutiso,Kilifi,Watamu
+K-91425,"Thursday, 10 October 2024",Wambui,Kilifi,Mariakani
+K-56455,"Friday, 08 November 2024",Muthoni,Machakos,Matuu
+K-46393,"Wednesday, 21 June 2023",Odhiambo,Nakuru,Lanet
+K-53201,"Sunday, 23 February 2025",Nyawira,Kisumu,Mamboleo
+K-94427,"Monday, 08 May 2023",Mwangi,Kilifi,Mariakani
+K-30074,"Thursday, 12 October 2023",Chebet,Mombasa,Shanzu
+K-15093,"Friday, 07 February 2025",Gathoni,Kajiado,Ongata Rongai
+K-73842,"Wednesday, 10 January 2024",Wanjiru,Nairobi,Eastleigh
+K-61669,"Monday, 25 November 2024",Mutua,Nyeri,Nyeri Town
+K-67543,"Sunday, 11 August 2024",Wanyama,Machakos,Athi River
+K-51952,"Friday, 08 March 2024",Wekesa,Mombasa,Mombasa Island
+K-93323,"Saturday, 03 February 2024",Otieno,Nyeri,Nyeri Town
+K-37516,"Monday, 01 July 2024",Maina,Kisumu,Nyalenda
+K-30948,"Wednesday, 19 April 2023",Omondi,Mombasa,Likoni
+K-59763,"Wednesday, 11 October 2023",Chepkoech,Kiambu,Ruiru
+K-17574,"Sunday, 10 September 2023",Ruto,Kajiado,Kiserian
+K-62878,"Sunday, 21 May 2023",Mwangi,Nairobi,Kasarani
+K-83094,"Saturday, 14 September 2024",Kipchoge,Nairobi,Karen
+K-28919,"Saturday, 23 September 2023",Kibet,Kajiado,Kiserian
+K-24224,"Friday, 04 October 2024",Auma,Mombasa,Mombasa Island
+K-66797,"Thursday, 22 June 2023",Kosgei,Kajiado,Ongata Rongai
+K-72306,"Tuesday, 03 September 2024",Karanja,Kisumu,Milimani
+K-14737,"Sunday, 22 December 2024",Kimani,Nakuru,Milimani
+K-41427,"Thursday, 25 April 2024",Ruto,Machakos,Kathiani
+K-95139,"Friday, 26 January 2024",Wekesa,Mombasa,Bamburi
+K-37643,"Saturday, 16 November 2024",Mohammed,Nakuru,Naka
+K-92869,"Wednesday, 05 March 2025",Wanjiku,Nairobi,Karen
+K-88786,"Sunday, 08 December 2024",Mutuku,Kisumu,Milimani
+K-19069,"Friday, 08 November 2024",Odhiambo,Machakos,Machakos Town
+K-17718,"Sunday, 02 June 2024",Njoroge,Kajiado,Ongata Rongai
+K-45406,"Sunday, 09 March 2025",Mwangi,Kisumu,Milimani
+K-56070,"Tuesday, 11 March 2025",Mutua,Machakos,Athi River
+K-34996,"Friday, 31 May 2024",Kimutai,Mombasa,Shanzu
+K-64512,"Thursday, 30 January 2025",Maina,Mombasa,Shanzu
+K-80296,"Tuesday, 05 December 2023",Adhiambo,Kilifi,Malindi
+K-89769,"Saturday, 01 June 2024",Wanjiru,Nyeri,Othaya
+K-97047,"Wednesday, 01 May 2024",Ndegwa,Machakos,Matuu
+K-44653,"Sunday, 08 September 2024",Kipkorir,Nairobi,Westlands
+K-79848,"Sunday, 14 April 2024",Karanja,Mombasa,Shanzu
+K-34631,"Wednesday, 25 September 2024",Wanjiru,Kilifi,Watamu
+K-83314,"Tuesday, 09 May 2023",Mwangi,Kilifi,Mariakani
+K-19791,"Monday, 02 September 2024",Wafula,Nairobi,Westlands
+K-89735,"Monday, 15 July 2024",Muriuki,Uasin Gishu,Moiben
+K-81696,"Monday, 16 October 2023",Chebet,Uasin Gishu,Eldoret
+K-10162,"Wednesday, 02 August 2023",Mutuku,Kilifi,Mtwapa
+K-54500,"Wednesday, 20 December 2023",Kibet,Machakos,Kathiani
+K-62408,"Monday, 02 October 2023",Ali,Kilifi,Mtwapa
+K-18117,"Wednesday, 23 October 2024",Omondi,Kisumu,Mamboleo
+K-77246,"Thursday, 07 December 2023",Kimani,Kajiado,Ngong
+K-67752,"Sunday, 30 June 2024",Wanyama,Nyeri,Karatina
+K-66268,"Tuesday, 29 August 2023",Nyambura,Uasin Gishu,Ziwa
+K-41896,"Tuesday, 23 May 2023",Wanyama,Nyeri,Naro Moru
+K-14243,"Wednesday, 18 September 2024",Ndegwa,Kilifi,Mariakani
+K-61468,"Monday, 20 November 2023",Muthoni,Kilifi,Mariakani
+K-37298,"Saturday, 13 January 2024",Mohammed,Nakuru,Lanet
+K-26755,"Sunday, 01 October 2023",Wanyama,Kilifi,Watamu
+K-15175,"Thursday, 16 May 2024",Wanyama,Kilifi,Mtwapa
+K-35046,"Monday, 16 December 2024",Ndegwa,Kiambu,Ruiru
+K-88507,"Monday, 02 September 2024",Ndegwa,Nairobi,Nairobi CBD
+K-98189,"Friday, 02 February 2024",Naliaka,Mombasa,Shanzu
+K-82855,"Tuesday, 23 May 2023",Muthoni,Kisumu,Milimani
+K-42349,"Saturday, 21 October 2023",Omondi,Kiambu,Kiambu Town
+K-75839,"Tuesday, 17 September 2024",Mwangi,Kajiado,Kajiado Town
+K-31312,"Monday, 14 October 2024",Njoroge,Nairobi,Karen
+K-91899,"Wednesday, 24 April 2024",Njoroge,Machakos,Athi River
+K-82789,"Sunday, 12 May 2024",Wanjiku,Nyeri,Karatina
+K-15144,"Wednesday, 26 March 2025",Wafula,Kiambu,Ruiru
+K-22498,"Sunday, 10 March 2024",Ndegwa,Machakos,Kangundo
+K-64177,"Wednesday, 06 September 2023",Okoth,Kilifi,Mariakani
+K-47206,"Wednesday, 10 July 2024",Waithaka,Nyeri,Nyeri Town
+K-84958,"Tuesday, 20 August 2024",Kavita,Mombasa,Mombasa Island
+K-15410,"Friday, 26 May 2023",Ngugi,Uasin Gishu,Moiben
+K-74326,"Saturday, 29 June 2024",Waithaka,Kisumu,Mamboleo
+K-26300,"Friday, 06 December 2024",Onyango,Kisumu,Kondele
+K-77617,"Thursday, 21 March 2024",Mwangi,Kajiado,Kajiado Town
+K-56076,"Wednesday, 03 January 2024",Kipchoge,Machakos,Kathiani
+K-50750,"Monday, 25 December 2023",Gitonga,Mombasa,Nyali
+K-15760,"Saturday, 04 January 2025",Odhiambo,Kiambu,Kikuyu
+K-77240,"Monday, 11 March 2024",Kipchoge,Uasin Gishu,Turbo
+K-39734,"Sunday, 06 August 2023",Akinyi,Kisumu,Kondele
+K-95919,"Friday, 03 November 2023",Ali,Nairobi,Karen
+K-23244,"Saturday, 07 December 2024",Odhiambo,Kilifi,Mtwapa
+K-98219,"Tuesday, 25 February 2025",Wangari,Kajiado,Kajiado Town
+K-63462,"Friday, 01 March 2024",Ruto,Kilifi,Kilifi Town
+K-88842,"Tuesday, 25 April 2023",Kimani,Nairobi,Eastleigh
+K-60501,"Thursday, 19 September 2024",Kimani,Kajiado,Kiserian
+K-77258,"Friday, 30 August 2024",Kimutai,Kajiado,Kajiado Town
+K-45565,"Friday, 24 January 2025",Odhiambo,Kajiado,Ongata Rongai
+K-80347,"Thursday, 03 October 2024",Mutuku,Nyeri,Othaya
+K-23355,"Sunday, 23 March 2025",Muthoni,Nyeri,Mweiga
+K-65456,"Tuesday, 23 April 2024",Chebet,Kajiado,Kajiado Town
+K-61057,"Friday, 09 August 2024",Kamau,Kajiado,Kajiado Town
+K-45916,"Tuesday, 07 November 2023",Wangari,Kajiado,Ongata Rongai
+K-70049,"Wednesday, 29 January 2025",Ndegwa,Mombasa,Nyali
+K-42025,"Wednesday, 15 January 2025",Kavita,Mombasa,Nyali
+K-76339,"Friday, 24 May 2024",Kosgei,Mombasa,Nyali
+K-48104,"Friday, 26 May 2023",Omondi,Kisumu,Mamboleo
+K-38722,"Saturday, 18 January 2025",Wanjiku,Mombasa,Mombasa Island
+K-65306,"Saturday, 09 September 2023",Karanja,Kilifi,Mariakani
+K-95343,"Thursday, 23 November 2023",Owino,Kilifi,Mariakani
+K-35188,"Friday, 31 January 2025",Akinyi,Machakos,Machakos Town
+K-29076,"Monday, 28 October 2024",Gathoni,Kiambu,Limuru
+K-45150,"Tuesday, 27 August 2024",Auma,Nyeri,Nyeri Town
+K-11631,"Friday, 23 February 2024",Mutuku,Uasin Gishu,Eldoret
+K-84146,"Friday, 10 November 2023",Otieno,Mombasa,Likoni
+K-16037,"Monday, 22 April 2024",Nyambura,Nairobi,Eastleigh
+K-22888,"Tuesday, 25 July 2023",Wangari,Mombasa,Nyali
+K-25994,"Tuesday, 17 September 2024",Kimutai,Mombasa,Shanzu
+K-52525,"Monday, 06 January 2025",Kibet,Nyeri,Nyeri Town
+K-25302,"Wednesday, 24 May 2023",Wanyama,Kiambu,Ruiru
+K-85983,"Thursday, 02 November 2023",Ruto,Kajiado,Kitengela
+K-85286,"Saturday, 16 November 2024",Ali,Kisumu,Mamboleo
+K-32231,"Monday, 07 October 2024",Naliaka,Mombasa,Nyali
+K-36577,"Thursday, 16 January 2025",Wangari,Kajiado,Kajiado Town
+K-54936,"Sunday, 09 February 2025",Wanyama,Kilifi,Watamu
+K-34509,"Saturday, 18 May 2024",Naliaka,Kilifi,Kilifi Town
+K-76770,"Friday, 11 August 2023",Gathoni,Machakos,Kathiani
+K-40380,"Monday, 10 March 2025",Adhiambo,Mombasa,Nyali
+K-89630,"Saturday, 15 February 2025",Wekesa,Kiambu,Limuru
+K-79523,"Wednesday, 19 June 2024",Wekesa,Kilifi,Mariakani
+K-75078,"Wednesday, 12 July 2023",Ngugi,Kisumu,Mamboleo
+K-38540,"Monday, 10 March 2025",Nyawira,Nyeri,Naro Moru
+K-53448,"Wednesday, 10 July 2024",Karanja,Kilifi,Mtwapa
+K-13490,"Thursday, 26 October 2023",Naliaka,Kiambu,Limuru
+K-90821,"Wednesday, 13 March 2024",Okoth,Kajiado,Kitengela
+K-14045,"Saturday, 04 May 2024",Kimutai,Mombasa,Likoni
+K-91534,"Wednesday, 13 December 2023",Mutuku,Uasin Gishu,Moiben
+K-45868,"Saturday, 23 September 2023",Odhiambo,Kajiado,Ongata Rongai
+K-15647,"Friday, 19 April 2024",Gitonga,Uasin Gishu,Eldoret
+K-57343,"Friday, 18 August 2023",Kamau,Nyeri,Naro Moru
+K-50228,"Sunday, 23 April 2023",Onyango,Uasin Gishu,Ziwa
+K-87525,"Monday, 08 July 2024",Odhiambo,Nakuru,Milimani
+K-60645,"Monday, 07 August 2023",Omondi,Nairobi,Eastleigh
+K-40503,"Monday, 11 September 2023",Mutiso,Kajiado,Ngong
+K-70638,"Sunday, 02 March 2025",Nyambura,Kilifi,Malindi
+K-66998,"Thursday, 07 November 2024",Njoroge,Uasin Gishu,Turbo
+K-62295,"Wednesday, 10 April 2024",Cherotich,Uasin Gishu,Burnt Forest
+K-35357,"Saturday, 16 September 2023",Naliaka,Mombasa,Bamburi
+K-53033,"Monday, 17 June 2024",Kipkorir,Kilifi,Mtwapa
+K-99767,"Sunday, 09 March 2025",Wekesa,Kajiado,Ongata Rongai
+K-12750,"Sunday, 19 November 2023",Wangari,Kisumu,Mamboleo
+K-58464,"Saturday, 25 May 2024",Chepkoech,Nyeri,Mweiga
+K-79670,"Monday, 19 August 2024",Karanja,Kisumu,Kondele
+K-42812,"Friday, 02 June 2023",Wanjiru,Kilifi,Mtwapa
+K-49243,"Sunday, 18 June 2023",Wanjiku,Uasin Gishu,Burnt Forest
+K-47691,"Thursday, 25 July 2024",Kimutai,Machakos,Kathiani
+K-25192,"Saturday, 28 September 2024",Kavita,Nyeri,Nyeri Town
+K-64920,"Wednesday, 17 July 2024",Wambui,Machakos,Kangundo
+K-72845,"Monday, 15 January 2024",Kariuki,Kiambu,Ruiru
+K-11701,"Thursday, 07 March 2024",Maina,Kilifi,Mtwapa
+K-70239,"Friday, 16 February 2024",Kipkorir,Kiambu,Limuru
+K-55886,"Sunday, 21 July 2024",Omondi,Nakuru,Lanet
+K-65439,"Thursday, 10 October 2024",Ndegwa,Nyeri,Karatina
+K-74973,"Saturday, 22 June 2024",Mutiso,Machakos,Matuu
+K-58941,"Wednesday, 19 July 2023",Nyambura,Kisumu,Milimani
+K-48151,"Saturday, 10 February 2024",Wanjiru,Kisumu,Kondele
+K-10886,"Tuesday, 07 November 2023",Wafula,Kisumu,Nyalenda
+K-30621,"Thursday, 11 January 2024",Maina,Machakos,Athi River
+K-74960,"Monday, 04 November 2024",Auma,Kiambu,Kiambu Town
+K-52338,"Tuesday, 16 January 2024",Mohammed,Uasin Gishu,Ziwa
+K-37929,"Saturday, 11 November 2023",Nyambura,Mombasa,Nyali
+K-65340,"Tuesday, 11 February 2025",Wafula,Nakuru,Milimani
+K-11362,"Sunday, 21 January 2024",Gitonga,Uasin Gishu,Eldoret
+K-57920,"Sunday, 24 November 2024",Okoth,Uasin Gishu,Burnt Forest
+K-78505,"Thursday, 26 December 2024",Adhiambo,Nyeri,Karatina
+K-64620,"Monday, 08 May 2023",Kavita,Kiambu,Limuru
+K-68925,"Wednesday, 22 November 2023",Ndegwa,Nakuru,Nakuru CBD
+K-34495,"Monday, 11 September 2023",Waithaka,Kisumu,Kondele
+K-78659,"Sunday, 08 December 2024",Mutuku,Machakos,Kangundo
+K-31700,"Tuesday, 02 May 2023",Ruto,Uasin Gishu,Moiben
+K-78999,"Wednesday, 21 June 2023",Kavita,Mombasa,Nyali
+K-49984,"Monday, 29 April 2024",Kipkorir,Kilifi,Malindi
+K-73556,"Monday, 01 January 2024",Kavita,Machakos,Machakos Town
+K-42661,"Wednesday, 25 October 2023",Cherotich,Kajiado,Ngong
+K-35565,"Wednesday, 14 June 2023",Kibet,Kajiado,Kitengela
+K-17841,"Sunday, 02 July 2023",Kimutai,Uasin Gishu,Moiben
+K-81677,"Saturday, 29 April 2023",Nyawira,Kiambu,Kiambu Town
+K-28126,"Thursday, 02 November 2023",Akinyi,Kilifi,Mtwapa
+K-61602,"Thursday, 21 September 2023",Maina,Kilifi,Kilifi Town
+K-77181,"Sunday, 07 April 2024",Mohammed,Kiambu,Kiambu Town
+K-77477,"Friday, 16 February 2024",Otieno,Nyeri,Nyeri Town
+K-92354,"Sunday, 23 July 2023",Auma,Nairobi,Nairobi CBD
+K-21827,"Wednesday, 10 April 2024",Onyango,Nyeri,Othaya
+K-63240,"Wednesday, 27 November 2024",Mutuku,Mombasa,Nyali
+K-51325,"Sunday, 07 July 2024",Kipkorir,Kisumu,Kisumu CBD
+K-62006,"Friday, 22 March 2024",Wekesa,Machakos,Machakos Town
+K-52672,"Sunday, 09 February 2025",Mutiso,Uasin Gishu,Burnt Forest
+K-97020,"Monday, 27 May 2024",Ndungu,Uasin Gishu,Ziwa
+K-48757,"Tuesday, 04 July 2023",Kavita,Mombasa,Mombasa Island
+K-26729,"Wednesday, 18 September 2024",Ngugi,Nairobi,Kasarani
+K-49901,"Tuesday, 30 April 2024",Naliaka,Kisumu,Nyalenda
+K-10397,"Tuesday, 07 May 2024",Ndegwa,Kilifi,Mariakani
+K-13850,"Friday, 25 August 2023",Ndungu,Mombasa,Likoni
+K-48123,"Thursday, 25 April 2024",Ndegwa,Nyeri,Othaya
+K-62056,"Thursday, 13 March 2025",Gitonga,Kajiado,Ngong
+K-37723,"Tuesday, 12 November 2024",Ngugi,Kajiado,Ongata Rongai
+K-87227,"Wednesday, 19 June 2024",Nyambura,Kilifi,Watamu
+K-82970,"Saturday, 02 March 2024",Naliaka,Nakuru,Lanet
+K-17178,"Tuesday, 28 November 2023",Mwangi,Nakuru,Lanet
+K-60531,"Friday, 14 July 2023",Mutiso,Nairobi,Westlands
+K-61457,"Monday, 10 April 2023",Ali,Mombasa,Mombasa Island
+K-35851,"Saturday, 14 December 2024",Akinyi,Machakos,Athi River
+K-93686,"Thursday, 28 March 2024",Ngugi,Kajiado,Ngong
+K-98886,"Friday, 19 April 2024",Ruto,Kilifi,Kilifi Town
+K-77631,"Monday, 06 May 2024",Otieno,Kiambu,Ruiru
+K-83470,"Wednesday, 03 July 2024",Kipkorir,Kiambu,Kiambu Town
+K-80428,"Friday, 18 August 2023",Ndegwa,Uasin Gishu,Eldoret
+K-28031,"Sunday, 30 April 2023",Muriuki,Nyeri,Nyeri Town
+K-61450,"Sunday, 23 July 2023",Wanjiru,Nairobi,Karen
+K-71295,"Sunday, 02 July 2023",Wekesa,Nyeri,Othaya
+K-37784,"Thursday, 13 March 2025",Wambui,Kiambu,Thika
+K-50091,"Saturday, 15 April 2023",Wanjiku,Uasin Gishu,Burnt Forest
+K-12619,"Saturday, 08 March 2025",Ruto,Kiambu,Kiambu Town
+K-23532,"Thursday, 23 May 2024",Kipchoge,Nairobi,Kasarani
+K-44236,"Sunday, 24 September 2023",Chebet,Nyeri,Mweiga
+K-50472,"Monday, 20 May 2024",Kimani,Kiambu,Limuru
+K-24667,"Saturday, 06 July 2024",Waithaka,Kajiado,Kajiado Town
+K-96726,"Wednesday, 15 May 2024",Kavita,Kajiado,Ongata Rongai
+K-44446,"Saturday, 23 September 2023",Mutua,Nairobi,Kasarani
+K-58633,"Wednesday, 04 September 2024",Chepkoech,Machakos,Athi River
+K-27034,"Sunday, 09 June 2024",Mutua,Kisumu,Kisumu CBD
+K-72056,"Monday, 28 October 2024",Mohammed,Nyeri,Naro Moru
+K-41991,"Saturday, 12 October 2024",Owino,Nakuru,Milimani
+K-56729,"Friday, 20 October 2023",Muriuki,Machakos,Kangundo
+K-18113,"Thursday, 21 September 2023",Nyambura,Machakos,Athi River
+K-74870,"Saturday, 06 April 2024",Owino,Machakos,Matuu
+K-93432,"Saturday, 04 January 2025",Ndegwa,Uasin Gishu,Moiben
+K-80274,"Saturday, 06 July 2024",Muriuki,Kilifi,Mtwapa
+K-33778,"Wednesday, 17 April 2024",Kariuki,Nakuru,Nakuru CBD
+K-46589,"Sunday, 30 July 2023",Wanjiru,Kilifi,Malindi
+K-80932,"Thursday, 02 May 2024",Kibet,Kisumu,Milimani
+K-88199,"Monday, 06 May 2024",Mutiso,Kisumu,Kondele
+K-38517,"Thursday, 08 February 2024",Ngugi,Kajiado,Ongata Rongai
+K-75186,"Thursday, 14 December 2023",Karanja,Kilifi,Mariakani
+K-77595,"Monday, 05 August 2024",Karanja,Nairobi,Karen
+K-67080,"Saturday, 13 January 2024",Kipchoge,Nakuru,London
+K-95132,"Wednesday, 17 May 2023",Muthoni,Nyeri,Mweiga
+K-18343,"Saturday, 24 February 2024",Adhiambo,Nairobi,Eastleigh
+K-46510,"Saturday, 08 July 2023",Otieno,Nyeri,Naro Moru
+K-84433,"Sunday, 16 July 2023",Ngugi,Kiambu,Limuru
+K-73861,"Thursday, 25 January 2024",Mutuku,Kilifi,Malindi
+K-61606,"Sunday, 09 April 2023",Kavita,Kiambu,Thika
+K-68569,"Saturday, 16 September 2023",Karanja,Kajiado,Kiserian
+K-39330,"Thursday, 04 January 2024",Akinyi,Nakuru,Milimani
+K-20847,"Tuesday, 12 March 2024",Maina,Mombasa,Likoni
+K-54321,"Sunday, 05 May 2024",Wambui,Nairobi,Karen
+K-19804,"Wednesday, 25 October 2023",Mutuku,Kisumu,Kondele
+K-93411,"Wednesday, 10 July 2024",Naliaka,Machakos,Kangundo
+K-90101,"Tuesday, 07 January 2025",Kamau,Kajiado,Ngong
+K-52840,"Friday, 02 February 2024",Ngugi,Kiambu,Kiambu Town
+K-20548,"Sunday, 28 April 2024",Ndungu,Mombasa,Nyali
+K-18658,"Sunday, 16 July 2023",Ali,Kilifi,Watamu
+K-54397,"Friday, 07 April 2023",Kiprop,Nyeri,Mweiga
+K-25836,"Sunday, 15 December 2024",Mutuku,Kiambu,Kikuyu
+K-33740,"Saturday, 16 December 2023",Wanjiru,Uasin Gishu,Moiben
+K-52253,"Saturday, 21 September 2024",Kosgei,Nyeri,Nyeri Town
+K-85711,"Tuesday, 30 January 2024",Chepkoech,Uasin Gishu,Ziwa
+K-89585,"Monday, 19 February 2024",Chebet,Machakos,Athi River
+K-50485,"Monday, 12 June 2023",Ruto,Nakuru,Lanet
+K-72219,"Saturday, 06 January 2024",Wafula,Uasin Gishu,Burnt Forest
+K-66423,"Monday, 04 November 2024",Chebet,Uasin Gishu,Burnt Forest
+K-27440,"Friday, 22 December 2023",Kariuki,Kilifi,Kilifi Town
+K-75207,"Sunday, 17 December 2023",Wanjiru,Kisumu,Kisumu CBD
+K-83266,"Friday, 20 October 2023",Njoroge,Kiambu,Ruiru
+K-45402,"Saturday, 22 March 2025",Kiprop,Nyeri,Mweiga
+K-12460,"Saturday, 04 November 2023",Chepkoech,Kiambu,Ruiru
+K-66596,"Sunday, 23 February 2025",Ngugi,Kilifi,Malindi
+K-70677,"Saturday, 16 March 2024",Auma,Uasin Gishu,Moiben
+K-11776,"Saturday, 25 January 2025",Chepkoech,Nairobi,Karen
+K-32244,"Thursday, 27 July 2023",Njoroge,Kisumu,Kisumu CBD
+K-52103,"Monday, 24 June 2024",Mutuku,Kajiado,Kitengela
+K-69389,"Tuesday, 29 October 2024",Wanyama,Mombasa,Shanzu
+K-53699,"Wednesday, 11 December 2024",Njoroge,Kisumu,Kisumu CBD
+K-81418,"Saturday, 04 January 2025",Nyawira,Nyeri,Othaya
+K-42842,"Friday, 05 May 2023",Wafula,Nairobi,Westlands
+K-42479,"Wednesday, 24 May 2023",Naliaka,Machakos,Athi River
+K-94050,"Thursday, 01 August 2024",Ngugi,Kisumu,Milimani
+K-26128,"Saturday, 25 November 2023",Ngugi,Kiambu,Limuru
+K-90971,"Saturday, 21 December 2024",Muthoni,Kajiado,Kiserian
+K-99091,"Sunday, 28 January 2024",Naliaka,Kilifi,Mariakani
+K-78544,"Sunday, 09 April 2023",Kamau,Nairobi,Kasarani
+K-23052,"Thursday, 23 January 2025",Mutua,Nairobi,Eastleigh
+K-31204,"Saturday, 25 May 2024",Kavita,Nairobi,Eastleigh
+K-26632,"Sunday, 01 December 2024",Wanjiru,Kiambu,Limuru
+K-74068,"Thursday, 13 July 2023",Mutua,Kajiado,Kajiado Town
+K-35736,"Sunday, 21 April 2024",Naliaka,Kiambu,Thika
+K-17365,"Friday, 05 July 2024",Mutua,Nakuru,Nakuru CBD
+K-39086,"Tuesday, 26 September 2023",Nyawira,Nakuru,London
+K-20312,"Tuesday, 02 January 2024",Ndegwa,Kiambu,Kiambu Town
+K-46834,"Saturday, 06 April 2024",Omondi,Kajiado,Ongata Rongai
+K-48821,"Sunday, 26 November 2023",Kamau,Kilifi,Mtwapa
+K-13435,"Sunday, 23 April 2023",Muriuki,Mombasa,Likoni
+K-48492,"Thursday, 06 February 2025",Omondi,Kajiado,Kiserian
+K-80624,"Wednesday, 09 October 2024",Mutua,Kisumu,Mamboleo
+K-61349,"Sunday, 02 March 2025",Wangari,Kisumu,Kondele
+K-45289,"Saturday, 06 May 2023",Wanjiku,Kiambu,Kikuyu
+K-44590,"Thursday, 13 February 2025",Wekesa,Kajiado,Kiserian
+K-77650,"Wednesday, 16 October 2024",Ndegwa,Kiambu,Thika
+K-13103,"Saturday, 27 January 2024",Njoroge,Machakos,Athi River
+K-40742,"Tuesday, 18 March 2025",Kavita,Nyeri,Karatina
+K-93925,"Tuesday, 18 April 2023",Owino,Kilifi,Watamu
+K-11138,"Tuesday, 11 March 2025",Nyawira,Kajiado,Ngong
+K-14389,"Wednesday, 29 January 2025",Nyawira,Nyeri,Naro Moru
+K-84405,"Thursday, 11 April 2024",Wafula,Uasin Gishu,Burnt Forest
+K-84448,"Sunday, 29 September 2024",Wambui,Uasin Gishu,Ziwa
+K-89429,"Wednesday, 04 December 2024",Ndegwa,Nakuru,London
+K-18544,"Wednesday, 29 November 2023",Kipkorir,Kilifi,Mtwapa
+K-34903,"Wednesday, 17 May 2023",Cherotich,Kilifi,Watamu
+K-29835,"Wednesday, 04 October 2023",Owino,Kiambu,Limuru
+K-90006,"Saturday, 06 July 2024",Gathoni,Nairobi,Eastleigh
+K-40624,"Friday, 26 April 2024",Nyawira,Kilifi,Malindi
+K-19495,"Wednesday, 16 August 2023",Mwangi,Nyeri,Nyeri Town
+K-72328,"Tuesday, 23 January 2024",Kimani,Kajiado,Kitengela
+K-84800,"Thursday, 04 April 2024",Mohammed,Kiambu,Kiambu Town
+K-50825,"Tuesday, 28 January 2025",Waithaka,Kilifi,Malindi
+K-40418,"Thursday, 05 October 2023",Odhiambo,Machakos,Kangundo
+K-66217,"Sunday, 04 February 2024",Mutuku,Nyeri,Naro Moru
+K-81324,"Thursday, 05 October 2023",Mutuku,Kilifi,Kilifi Town
+K-95237,"Tuesday, 21 May 2024",Wafula,Kiambu,Kiambu Town
+K-36319,"Saturday, 19 October 2024",Mutuku,Nyeri,Karatina
+K-20464,"Monday, 15 April 2024",Ndungu,Kajiado,Kitengela
+K-19776,"Sunday, 07 May 2023",Mutiso,Machakos,Athi River
+K-39322,"Thursday, 22 June 2023",Otieno,Kisumu,Kondele
+K-10353,"Monday, 12 February 2024",Wambui,Kilifi,Kilifi Town
+K-65768,"Thursday, 13 February 2025",Gathoni,Kilifi,Malindi
+K-49229,"Sunday, 05 May 2024",Kavita,Kiambu,Limuru
+K-96995,"Tuesday, 31 December 2024",Nyambura,Mombasa,Bamburi
+K-75384,"Friday, 28 July 2023",Wanjiru,Nakuru,Naka
+K-17305,"Tuesday, 11 March 2025",Ali,Nakuru,Nakuru CBD
+K-54595,"Saturday, 24 February 2024",Cherotich,Kajiado,Ngong
+K-37285,"Friday, 13 September 2024",Mohammed,Kajiado,Ongata Rongai
+K-82318,"Thursday, 13 June 2024",Ndungu,Nairobi,Kasarani
+K-72906,"Sunday, 15 October 2023",Cherotich,Kiambu,Kiambu Town
+K-38527,"Saturday, 10 August 2024",Ngugi,Mombasa,Nyali
+K-70229,"Monday, 18 November 2024",Nyawira,Kilifi,Mtwapa
+K-78788,"Saturday, 10 June 2023",Chebet,Nairobi,Eastleigh
+K-48692,"Thursday, 08 February 2024",Karanja,Nyeri,Mweiga
+K-72317,"Thursday, 13 March 2025",Cherotich,Nairobi,Nairobi CBD
+K-60109,"Tuesday, 04 February 2025",Onyango,Kiambu,Ruiru
+K-83116,"Monday, 19 June 2023",Owino,Machakos,Athi River
+K-50498,"Wednesday, 24 May 2023",Auma,Uasin Gishu,Moiben
+K-86672,"Friday, 11 August 2023",Muthoni,Nairobi,Nairobi CBD
+K-96734,"Monday, 27 May 2024",Otieno,Uasin Gishu,Turbo
+K-18374,"Wednesday, 05 April 2023",Wafula,Nakuru,London
+K-49664,"Saturday, 05 August 2023",Cherotich,Nyeri,Naro Moru
+K-73293,"Sunday, 26 January 2025",Okoth,Machakos,Athi River
+K-20047,"Thursday, 18 May 2023",Auma,Mombasa,Nyali
+K-57696,"Thursday, 18 July 2024",Cherotich,Machakos,Kathiani
+K-40445,"Friday, 24 November 2023",Wanjiku,Mombasa,Shanzu
+K-36025,"Monday, 04 March 2024",Wafula,Kilifi,Mariakani
+K-54479,"Monday, 09 October 2023",Wekesa,Nairobi,Karen
+K-20077,"Saturday, 08 March 2025",Omondi,Kajiado,Kajiado Town
+K-16194,"Monday, 01 July 2024",Kavita,Mombasa,Likoni
+K-95883,"Saturday, 27 January 2024",Muthoni,Kajiado,Kitengela
+K-72920,"Friday, 25 August 2023",Kamau,Kajiado,Kitengela
+K-44225,"Friday, 06 October 2023",Mohammed,Machakos,Athi River
+K-51277,"Friday, 13 December 2024",Wanyama,Nakuru,Lanet
+K-86718,"Saturday, 07 October 2023",Wangari,Mombasa,Nyali
+K-89297,"Tuesday, 18 June 2024",Kimani,Kajiado,Kajiado Town
+K-44193,"Thursday, 27 July 2023",Omondi,Kilifi,Kilifi Town
+K-60010,"Monday, 16 December 2024",Mutiso,Uasin Gishu,Turbo
+K-56627,"Monday, 02 September 2024",Kariuki,Nyeri,Karatina
+K-71002,"Monday, 16 December 2024",Wanjiru,Kiambu,Ruiru
+K-27690,"Sunday, 28 May 2023",Owino,Kajiado,Kajiado Town
+K-66873,"Tuesday, 30 May 2023",Otieno,Nakuru,Lanet
+K-65707,"Saturday, 25 May 2024",Wambui,Kilifi,Malindi
+K-38538,"Sunday, 16 July 2023",Wambui,Kisumu,Nyalenda
+K-86319,"Tuesday, 16 January 2024",Wanjiku,Mombasa,Nyali
+K-19046,"Saturday, 06 April 2024",Wangari,Kisumu,Milimani
+K-54331,"Sunday, 15 September 2024",Akinyi,Nairobi,Kasarani
+K-40909,"Sunday, 23 July 2023",Wanjiru,Kajiado,Kitengela
+K-73071,"Tuesday, 19 November 2024",Nyawira,Nyeri,Karatina
+K-33263,"Thursday, 02 January 2025",Mwangi,Kisumu,Nyalenda
+K-19997,"Thursday, 16 May 2024",Kosgei,Uasin Gishu,Ziwa
+K-93895,"Tuesday, 25 February 2025",Kimutai,Kajiado,Kitengela
+K-31365,"Thursday, 19 October 2023",Auma,Nairobi,Nairobi CBD
+K-55642,"Friday, 01 December 2023",Akinyi,Nakuru,Naka
+K-34186,"Wednesday, 12 June 2024",Wanjiku,Kisumu,Milimani
+K-40013,"Monday, 17 February 2025",Odhiambo,Mombasa,Bamburi
